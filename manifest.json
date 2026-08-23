@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-23T16:33:23.812Z",
+  "datasets": {
+    "warnings": {
+      "path": "warnings.json",
+      "version": "cb488e1642697abaae9213f3e1cdc7be3d59e4f160e86d6121279d59dd71b353",
+      "checkedAt": "2026-08-23T16:33:23.812Z",
+      "updatedAt": "2026-08-23T16:33:23.812Z",
+      "count": 87
+    },
+    "notices": {
+      "path": "notices.json",
+      "version": "ef979dd3c2cb5dad54c6df5b148858c3d74f6cfaaa21b58e4b3726151855cf83",
+      "checkedAt": "2026-08-23T16:33:23.812Z",
+      "updatedAt": "2026-08-23T16:33:23.812Z",
+      "count": 472
+    }
+  }
+}
