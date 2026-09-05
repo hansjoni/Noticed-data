@@ -1,8 +1,157 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T17:22:59.375Z",
-  "version": "1611f0e756ee270f834b0dd001abcb04ceac95c871f0b2bfcf68a8df34aa7fbc",
+  "generatedAt": "2026-09-05T00:57:26.728Z",
+  "version": "0f4934c1fd917fb0449e06c29c0a06e6e09c8a5d539a3db3b98f6936217bcbe5",
   "records": [
+    {
+      "id": "dk-authority-dk-1c0176fb-22fa-4865-af27-c23dff81e40d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-1c0176fb-22fa-4865-af27-c23dff81e40d",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-05T00:21:51.000Z",
+      "updatedAt": "2026-09-05T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "bodyIs": "7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "bodyEn": "7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 55.99166666666667,
+            "longitude": 11.398883333333334
+          },
+          {
+            "latitude": 55.93861666666667,
+            "longitude": 11.249166666666667
+          },
+          {
+            "latitude": 56.02583333333333,
+            "longitude": 11.168616666666667
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
+    },
+    {
+      "id": "dk-authority-dk-47e794d0-a5df-4b1b-85bf-630148bf7744",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-47e794d0-a5df-4b1b-85bf-630148bf7744",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-05T00:21:51.000Z",
+      "updatedAt": "2026-09-05T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "bodyIs": "5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "bodyEn": "5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.425616666666667
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.411133333333334
+          },
+          {
+            "latitude": 56.5825,
+            "longitude": 10.3875
+          },
+          {
+            "latitude": 56.55971666666667,
+            "longitude": 10.510833333333334
+          },
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
+    },
+    {
+      "id": "dk-authority-dk-4e08e231-ef40-45b6-9bed-40aa5fbc003d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-4e08e231-ef40-45b6-9bed-40aa5fbc003d",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-05T00:21:51.000Z",
+      "updatedAt": "2026-09-05T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
+    },
     {
       "id": "dk-authority-dk-ebab97aa-5922-4a74-9c8d-eb967ce1979c",
       "authority": "Danish Maritime Authority",
@@ -28,7 +177,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-27935bbe-d771-4c58-8e00-b461d717db60",
@@ -87,7 +236,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-4d5b4b88-055d-4fbc-8357-c8fa610a5bd7",
@@ -146,7 +295,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-6ecece52-c2cb-4faa-b687-85e895a1fa1a",
@@ -205,105 +354,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
-    },
-    {
-      "id": "dk-authority-dk-b0272e99-c845-4348-be9f-62eae15d8a40",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-b0272e99-c845-4348-be9f-62eae15d8a40",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-04T00:21:51.000Z",
-      "updatedAt": "2026-09-04T00:21:52.000Z",
-      "titleIs": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
-      "bodyIs": "4 September 2026, hours 08:00 - 15:00.\n5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
-      "bodyEn": "4 September 2026, hours 08:00 - 15:00.\n5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 56.545,
-            "longitude": 10.523883333333334
-          },
-          {
-            "latitude": 56.518233333333335,
-            "longitude": 10.425616666666667
-          },
-          {
-            "latitude": 56.518233333333335,
-            "longitude": 10.411133333333334
-          },
-          {
-            "latitude": 56.5825,
-            "longitude": 10.3875
-          },
-          {
-            "latitude": 56.55971666666667,
-            "longitude": 10.510833333333334
-          },
-          {
-            "latitude": 56.545,
-            "longitude": 10.523883333333334
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
-    },
-    {
-      "id": "dk-authority-dk-d0578d26-07d6-48a9-b341-fc4862499a3b",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-d0578d26-07d6-48a9-b341-fc4862499a3b",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-04T00:21:51.000Z",
-      "updatedAt": "2026-09-04T00:21:52.000Z",
-      "titleIs": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
-      "bodyIs": "4 September 2026, hours 12:00 - 16:00.\n7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
-      "bodyEn": "4 September 2026, hours 12:00 - 16:00.\n7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 56.0725,
-            "longitude": 11.306116666666666
-          },
-          {
-            "latitude": 55.99166666666667,
-            "longitude": 11.398883333333334
-          },
-          {
-            "latitude": 55.93861666666667,
-            "longitude": 11.249166666666667
-          },
-          {
-            "latitude": 56.02583333333333,
-            "longitude": 11.168616666666667
-          },
-          {
-            "latitude": 56.0725,
-            "longitude": 11.306116666666666
-          },
-          {
-            "latitude": 56.0725,
-            "longitude": 11.306116666666666
-          },
-          {
-            "latitude": 56.0725,
-            "longitude": 11.306116666666666
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-ff007625-9855-470e-b60b-262c10e43376",
@@ -362,7 +413,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-f76df466-36cd-4dcc-88bd-0aa66b02e8d5",
@@ -417,7 +468,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-6b49a1e5-ddb1-464d-b11d-ad428c36566b",
@@ -448,7 +499,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-35d3eab4-3f53-44d8-9257-c7894532ed4a",
@@ -479,7 +530,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
@@ -506,58 +557,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
-    },
-    {
-      "id": "dk-authority-dk-ed5342ce-f687-47f3-b04a-119ca9d838d1",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-ed5342ce-f687-47f3-b04a-119ca9d838d1",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-03T00:21:51.000Z",
-      "updatedAt": "2026-09-03T00:21:53.000Z",
-      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "bodyIs": "4 September 2026, hours 09:00 - 13:00.\n8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "bodyEn": "4 September 2026, hours 09:00 - 13:00.\n8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.180683333333334,
-            "longitude": 9.3492
-          },
-          {
-            "latitude": 57.201116666666664,
-            "longitude": 9.348616666666667
-          },
-          {
-            "latitude": 57.255833333333335,
-            "longitude": 9.469716666666667
-          },
-          {
-            "latitude": 57.25043333333333,
-            "longitude": 9.501283333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-616ce27d-d346-40e4-8edf-05b1179401b2",
@@ -612,7 +612,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-c1ed8145-869e-444f-8a9a-b32462ce2d45",
@@ -687,7 +687,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-e9562306-6b04-4b32-81b3-a0efa9f08d03",
@@ -734,7 +734,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-06d0d70b-54e3-4b0d-9a86-549ee8c6a409",
@@ -765,7 +765,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-bd64978b-c3c6-4d16-ab23-c150c6d58399",
@@ -792,7 +792,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-00fe637a-f608-45fd-9b8d-1f3328b1ebb5",
@@ -819,7 +819,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-7c72d37c-7fc1-4bb4-b9d9-0dae5590756c",
@@ -862,7 +862,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-d7304651-300e-4743-ac00-233e82b391d0",
@@ -893,7 +893,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-99f40175-759f-42ea-84a9-7daa33142787",
@@ -920,7 +920,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-662da6bc-b870-4b43-963e-71733fd8a7af",
@@ -951,7 +951,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-e51e6f22-b662-4a74-b3e2-b69d9a5bb1c2",
@@ -978,7 +978,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-033ac064-aeeb-46e6-a9c2-67d58e930823",
@@ -1005,7 +1005,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-20e46e78-1206-4f6a-8193-52bcd944df37",
@@ -1032,7 +1032,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-719a7767-c91d-4542-94dc-39f514f67529",
@@ -1059,7 +1059,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-b1276ba6-a6d7-40a9-9d09-83a585d94fe4",
@@ -1086,7 +1086,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-1040c21d-90fa-4ce3-a89c-62983c2d6cb6",
@@ -1113,7 +1113,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-36a44764-961b-4e7a-b640-2665ef0ad5b4",
@@ -1140,7 +1140,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-7f9c5004-8465-4ab4-8c93-b37f2e53ab21",
@@ -1183,7 +1183,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-afb7884f-1de0-4d43-947c-d7c594d0e05f",
@@ -1210,7 +1210,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-9464e570-6b60-4b9e-a4df-2fcd92ba6921",
@@ -1237,7 +1237,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-90e0519f-04ff-487c-b450-9737e31fc689",
@@ -1264,7 +1264,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-d05b67a3-26b8-4874-9e29-0b384c01517f",
@@ -1291,7 +1291,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-d8c02bb8-3fee-4078-8655-fecae8faf790",
@@ -1318,7 +1318,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-04f9fecd-e1e0-491a-8c2f-4e1767a6a757",
@@ -1345,7 +1345,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-2fb81c4c-9928-4674-975a-1ad84f562700",
@@ -1372,7 +1372,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-139c3bcc-4647-4c71-96eb-664a8fca8921",
@@ -1399,7 +1399,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-a292f781-8155-4e48-b8e2-0210227544c0",
@@ -1426,7 +1426,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-cd23a713-ca96-4566-92cf-856b650f8527",
@@ -1453,7 +1453,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
@@ -1480,7 +1480,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-9d4c645c-1a86-42d7-90e0-a28805735f9c",
@@ -1507,7 +1507,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-0067b666-f806-496e-95f4-2c14cc6a7edc",
@@ -1534,7 +1534,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.147Z"
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
     },
     {
       "id": "dk-authority-dk-33fc0b55-1302-4681-b79b-5711b1cf20d0",
@@ -1556,6 +1556,104 @@
           {
             "latitude": 56.58333333333334,
             "longitude": 10.274499999999998
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-05T00:57:27.521Z"
+    },
+    {
+      "id": "dk-authority-dk-b0272e99-c845-4348-be9f-62eae15d8a40",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-b0272e99-c845-4348-be9f-62eae15d8a40",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-04T00:21:51.000Z",
+      "updatedAt": "2026-09-04T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "bodyIs": "4 September 2026, hours 08:00 - 15:00.\n5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "bodyEn": "4 September 2026, hours 08:00 - 15:00.\n5 September 2026, hours 09:00 - 23:00.\n6 September 2026, hours 09:00 - 16:00.\n7 September 2026, hours 09:00 - 21:00.\n8 September 2026, hours 08:00 - 21:00.\n9 September 2026, hours 08:00 - 21:00.\n10 September 2026, hours 08:00 - 17:00.\n11 September 2026, hours 08:00 - 15:00.\n12 September 2026, hours 08:00 - 22:00.\n13 September 2026, hours 08:00 - 17:00.\n14 September 2026, hours 09:00 - 00:00.\n15 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 08:00 - 00:00.\n17 September 2026, hours 08:00 - 00:00.\n18 September 2026, hours 08:00 - 22:00.\n19 September 2026, hours 08:00 - 22:00.\n21 September 2026, hours 09:00 - 15:00.\n22 September 2026, hours 09:00 - 15:00.\n23 September 2026, hours 09:00 - 15:00.\n24 September 2026, hours 09:00 - 15:00.\n25 September 2026, hours 09:00 - 15:00.\n28 September 2026, hours 09:00 - 00:00.\n29 September 2026, hours 09:00 - 00:00.\n30 September 2026, hours 09:00 - 00:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.425616666666667
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.411133333333334
+          },
+          {
+            "latitude": 56.5825,
+            "longitude": 10.3875
+          },
+          {
+            "latitude": 56.55971666666667,
+            "longitude": 10.510833333333334
+          },
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-04T17:23:00.147Z"
+    },
+    {
+      "id": "dk-authority-dk-d0578d26-07d6-48a9-b341-fc4862499a3b",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-d0578d26-07d6-48a9-b341-fc4862499a3b",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-04T00:21:51.000Z",
+      "updatedAt": "2026-09-04T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "bodyIs": "4 September 2026, hours 12:00 - 16:00.\n7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "bodyEn": "4 September 2026, hours 12:00 - 16:00.\n7 September 2026, hours 16:00 - 22:30.\n9 September 2026, hours 09:00 - 20:00.\n10 September 2026, hours 09:00 - 15:00.\n30 September 2026, hours 13:00 - 15:00.\n1 October 2026, hours 09:00 - 15:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 55.99166666666667,
+            "longitude": 11.398883333333334
+          },
+          {
+            "latitude": 55.93861666666667,
+            "longitude": 11.249166666666667
+          },
+          {
+            "latitude": 56.02583333333333,
+            "longitude": 11.168616666666667
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
           }
         ]
       },
@@ -1967,6 +2065,57 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-09-03T15:29:08.944Z"
+    },
+    {
+      "id": "dk-authority-dk-ed5342ce-f687-47f3-b04a-119ca9d838d1",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ed5342ce-f687-47f3-b04a-119ca9d838d1",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-03T00:21:51.000Z",
+      "updatedAt": "2026-09-03T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "4 September 2026, hours 09:00 - 13:00.\n8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "4 September 2026, hours 09:00 - 13:00.\n8 September 2026, hours 09:00 - 15:00.\n9 September 2026, hours 09:00 - 00:00.\n12 September 2026, hours 08:00 - 00:00.\n16 September 2026, hours 10:00 - 00:00.\n17 September 2026, hours 08:00 - 02:00.\n21 September 2026, hours 09:00 - 16:00.\n22 September 2026, hours 09:00 - 16:00.\n23 September 2026, hours 09:00 - 16:00.\n24 September 2026, hours 09:00 - 16:00.\n25 September 2026, hours 09:00 - 12:00.\n26 September 2026, hours 08:00 - 18:00.\n28 September 2026, hours 09:00 - 21:00.\n29 September 2026, hours 08:00 - 23:00.\n30 September 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-04T17:23:00.147Z"
     },
     {
       "id": "dk-authority-dk-fcb49e00-32d2-4c09-9764-5102bfae94e7",
@@ -8335,7 +8484,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-04T17:23:00.139Z"
+      "fetchedAt": "2026-09-05T00:57:27.503Z"
     },
     {
       "id": "dk-authority-gl-8737fbc1-f08f-4d0a-8443-fc49831a47f3",
@@ -8416,7 +8565,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19622",
@@ -8533,7 +8682,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19599",
@@ -8560,7 +8709,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19494",
@@ -8582,7 +8731,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19628",
@@ -8609,7 +8758,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19574",
@@ -8631,7 +8780,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19569",
@@ -8653,7 +8802,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19561",
@@ -8680,7 +8829,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19560",
@@ -8707,7 +8856,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19541",
@@ -8729,7 +8878,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19318",
@@ -8756,7 +8905,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19212",
@@ -8778,7 +8927,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19156",
@@ -8800,7 +8949,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19154",
@@ -8827,7 +8976,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19105",
@@ -8854,7 +9003,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19093",
@@ -8881,7 +9030,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19063",
@@ -8908,7 +9057,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-19019",
@@ -8930,7 +9079,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18938",
@@ -8957,7 +9106,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18883",
@@ -8984,7 +9133,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18706",
@@ -9011,7 +9160,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18705",
@@ -9033,7 +9182,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18704",
@@ -9055,7 +9204,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18703",
@@ -9109,7 +9258,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18701",
@@ -9144,7 +9293,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18700",
@@ -9171,7 +9320,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18699",
@@ -9198,7 +9347,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18698",
@@ -9225,7 +9374,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18697",
@@ -9252,7 +9401,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18696",
@@ -9279,7 +9428,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18694",
@@ -9306,7 +9455,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18695",
@@ -9333,7 +9482,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18693",
@@ -9360,7 +9509,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18692",
@@ -9387,7 +9536,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18691",
@@ -9409,7 +9558,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18690",
@@ -9436,7 +9585,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18689",
@@ -9463,7 +9612,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18688",
@@ -9485,7 +9634,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18687",
@@ -9512,7 +9661,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18686",
@@ -9534,7 +9683,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18685",
@@ -9561,7 +9710,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18684",
@@ -9583,7 +9732,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18683",
@@ -9610,7 +9759,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18682",
@@ -9637,7 +9786,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18681",
@@ -9668,7 +9817,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18680",
@@ -9695,7 +9844,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     },
     {
       "id": "is-lhg-warning-18679",
@@ -9717,7 +9866,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-04T17:23:00.647Z"
+      "fetchedAt": "2026-09-05T00:57:27.720Z"
     }
   ]
 }
