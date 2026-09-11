@@ -1,8 +1,314 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:26:51.972Z",
-  "version": "af20688df78e7a9704289f480d9ddc10ed81fbc3d39ca50f16e337ad8d7e6613",
+  "generatedAt": "2026-09-11T20:26:29.304Z",
+  "version": "7205d8c69249db033c8bbca79f8852e351fc394b8ae0ce5d7855731c94f992ce",
   "records": [
+    {
+      "id": "dk-authority-dk-0c9a90aa-3fd7-4340-8e8d-c81c47de9e7d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-0c9a90aa-3fd7-4340-8e8d-c81c47de9e7d",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:21:51.000Z",
+      "updatedAt": "2026-09-11T20:21:53.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "bodyIs": "11 September 2026, hours 08:00 - 17:00.\n15 September 2026, hours 09:00 - 17:00.\n18 September 2026, hours 08:00 - 18:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "11 September 2026, hours 08:00 - 17:00.\n15 September 2026, hours 09:00 - 17:00.\n18 September 2026, hours 08:00 - 18:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-6b862a3e-fbd4-410b-b648-e6cf8e590fce",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-6b862a3e-fbd4-410b-b648-e6cf8e590fce",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:21:51.000Z",
+      "updatedAt": "2026-09-11T20:21:52.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
+      "bodyIs": "15 September 2026, hours 09:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "15 September 2026, hours 09:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-9ff5303e-8406-4432-8c30-d99866a040ba",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-9ff5303e-8406-4432-8c30-d99866a040ba",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:21:51.000Z",
+      "updatedAt": "2026-09-11T20:21:52.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
+      "bodyIs": "15 September 2026, hours 09:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "15 September 2026, hours 09:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-ab5766f4-0a77-4a5b-94cb-b1b980e5bd3b",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ab5766f4-0a77-4a5b-94cb-b1b980e5bd3b",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:21:51.000Z",
+      "updatedAt": "2026-09-11T20:21:51.000Z",
+      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
+      "bodyIs": "14 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "bodyEn": "14 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 54.98,
+            "longitude": 14.97945
+          },
+          {
+            "latitude": 54.970283333333334,
+            "longitude": 14.90305
+          },
+          {
+            "latitude": 55.008716666666665,
+            "longitude": 14.84575
+          },
+          {
+            "latitude": 55.024483333333336,
+            "longitude": 14.917833333333334
+          },
+          {
+            "latitude": 55.016983333333336,
+            "longitude": 14.945533333333334
+          },
+          {
+            "latitude": 54.98,
+            "longitude": 14.97945
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-ee8235c6-626e-463e-af3d-a8a5e11838e6",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ee8235c6-626e-463e-af3d-a8a5e11838e6",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:21:51.000Z",
+      "updatedAt": "2026-09-11T20:21:51.000Z",
+      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
+      "bodyIs": "28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "bodyEn": "28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          },
+          {
+            "latitude": 54.907783333333334,
+            "longitude": 14.91555
+          },
+          {
+            "latitude": 54.948366666666665,
+            "longitude": 14.773083333333334
+          },
+          {
+            "latitude": 55.01518333333333,
+            "longitude": 14.749216666666667
+          },
+          {
+            "latitude": 55.03798333333334,
+            "longitude": 14.888016666666667
+          },
+          {
+            "latitude": 55.003566666666664,
+            "longitude": 15.032583333333333
+          },
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          },
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-d8b17db1-eb24-489d-9d58-567147f621b0",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-d8b17db1-eb24-489d-9d58-567147f621b0",
+      "warningNumber": "NW-358-26",
+      "status": "active",
+      "publishedAt": "2026-09-11T20:08:12.000Z",
+      "updatedAt": "2026-09-11T20:08:12.000Z",
+      "titleIs": "NW-358-26 · Denmark. The Great Belt. Great Belt Bridge. Light unreliable.",
+      "titleEn": "NW-358-26 · Denmark. The Great Belt. Great Belt Bridge. Light unreliable.",
+      "bodyIs": "Great Belt Bridge\nLight unreliable\nThe light\nin pos.\n55° 20.5'N - 011° 02.5'E\nis unreliable.",
+      "bodyEn": "Great Belt Bridge\nLight unreliable\nThe light\nin pos.\n55° 20.5'N - 011° 02.5'E\nis unreliable.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.34249962749817,
+            "longitude": 11.041069840132804
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
     {
       "id": "dk-authority-dk-15f73017-ed2f-4b8c-ab75-208ca8b8326c",
       "authority": "Danish Maritime Authority",
@@ -48,7 +354,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-4b4d7f67-422f-494f-936f-9673203c33a7",
@@ -99,66 +405,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
-    },
-    {
-      "id": "dk-authority-dk-6fdd14c4-f1da-4956-a369-ed993b395438",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-6fdd14c4-f1da-4956-a369-ed993b395438",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-11T00:21:50.000Z",
-      "updatedAt": "2026-09-11T00:21:53.000Z",
-      "titleIs": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
-      "bodyIs": "11 September 2026, hours 08:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "bodyEn": "11 September 2026, hours 08:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 55.583333333333336,
-            "longitude": 8.1
-          },
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          },
-          {
-            "latitude": 55.538333333333334,
-            "longitude": 7.990283333333333
-          },
-          {
-            "latitude": 55.560833333333335,
-            "longitude": 7.8311166666666665
-          },
-          {
-            "latitude": 55.61183333333334,
-            "longitude": 7.823016666666667
-          },
-          {
-            "latitude": 55.72696666666667,
-            "longitude": 7.908383333333333
-          },
-          {
-            "latitude": 55.74463333333333,
-            "longitude": 8.014366666666668
-          },
-          {
-            "latitude": 55.61436666666667,
-            "longitude": 8.122916666666667
-          },
-          {
-            "latitude": 55.583333333333336,
-            "longitude": 8.1
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-8c950d95-d6d4-4389-8917-75451bfd2343",
@@ -233,7 +480,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-95dc4dcb-6d76-416a-a778-09983c1134e0",
@@ -288,7 +535,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-ce35dc4b-277f-401b-a7df-170b988c177e",
@@ -315,7 +562,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-68eb1259-cb0b-4c63-b294-11e8a0e698b6",
@@ -342,7 +589,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-bcebb136-80a0-4fca-ab6f-49899b1bf273",
@@ -369,7 +616,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-1ab03de0-70d7-43b9-ab0d-83c4c3612d7d",
@@ -420,7 +667,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-8eb9f4e9-be57-4399-85f6-ae6692324eb5",
@@ -463,7 +710,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-ed5b5b08-624f-4749-9e7c-2ea9a8686e2c",
@@ -490,7 +737,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-a995276f-b4ef-41ac-aedd-2271b1fe00f7",
@@ -541,7 +788,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-dd52e96c-85e3-4fd6-8acf-32fec712e90d",
@@ -600,7 +847,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-0214af79-d165-4811-b52d-dd147c51483c",
@@ -627,7 +874,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-2f6bbfd9-86e8-4d11-b2df-d90afd86b734",
@@ -654,7 +901,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-5ec2f4ee-2032-4b7a-8273-a3d9f15d4b28",
@@ -681,125 +928,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
-    },
-    {
-      "id": "dk-authority-dk-4d5b4b88-055d-4fbc-8357-c8fa610a5bd7",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-4d5b4b88-055d-4fbc-8357-c8fa610a5bd7",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-04T00:21:51.000Z",
-      "updatedAt": "2026-09-04T00:21:53.000Z",
-      "titleIs": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
-      "bodyIs": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "bodyEn": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          },
-          {
-            "latitude": 55.538333333333334,
-            "longitude": 7.990283333333333
-          },
-          {
-            "latitude": 55.560833333333335,
-            "longitude": 7.8311166666666665
-          },
-          {
-            "latitude": 55.61183333333334,
-            "longitude": 7.823016666666667
-          },
-          {
-            "latitude": 55.72696666666667,
-            "longitude": 7.908383333333333
-          },
-          {
-            "latitude": 55.74463333333333,
-            "longitude": 8.014366666666668
-          },
-          {
-            "latitude": 55.61436666666667,
-            "longitude": 8.122916666666667
-          },
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          },
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
-    },
-    {
-      "id": "dk-authority-dk-ff007625-9855-470e-b60b-262c10e43376",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-ff007625-9855-470e-b60b-262c10e43376",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-04T00:21:51.000Z",
-      "updatedAt": "2026-09-04T00:21:53.000Z",
-      "titleIs": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
-      "bodyIs": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "bodyEn": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          },
-          {
-            "latitude": 55.538333333333334,
-            "longitude": 7.990283333333333
-          },
-          {
-            "latitude": 55.560833333333335,
-            "longitude": 7.8311166666666665
-          },
-          {
-            "latitude": 55.61183333333334,
-            "longitude": 7.823016666666667
-          },
-          {
-            "latitude": 55.72696666666667,
-            "longitude": 7.908383333333333
-          },
-          {
-            "latitude": 55.74463333333333,
-            "longitude": 8.014366666666668
-          },
-          {
-            "latitude": 55.61436666666667,
-            "longitude": 8.122916666666667
-          },
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          },
-          {
-            "latitude": 55.561566666666664,
-            "longitude": 8.10195
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
@@ -826,109 +955,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
-    },
-    {
-      "id": "dk-authority-dk-616ce27d-d346-40e4-8edf-05b1179401b2",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-616ce27d-d346-40e4-8edf-05b1179401b2",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-02T00:21:51.000Z",
-      "updatedAt": "2026-09-02T00:21:52.000Z",
-      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
-      "bodyIs": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
-      "bodyEn": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 54.931583333333336,
-            "longitude": 15.064916666666667
-          },
-          {
-            "latitude": 54.907783333333334,
-            "longitude": 14.91555
-          },
-          {
-            "latitude": 54.948366666666665,
-            "longitude": 14.773083333333334
-          },
-          {
-            "latitude": 55.01518333333333,
-            "longitude": 14.749216666666667
-          },
-          {
-            "latitude": 55.03798333333334,
-            "longitude": 14.888016666666667
-          },
-          {
-            "latitude": 55.003566666666664,
-            "longitude": 15.032583333333333
-          },
-          {
-            "latitude": 54.931583333333336,
-            "longitude": 15.064916666666667
-          },
-          {
-            "latitude": 54.931583333333336,
-            "longitude": 15.064916666666667
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
-    },
-    {
-      "id": "dk-authority-dk-e9562306-6b04-4b32-81b3-a0efa9f08d03",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-e9562306-6b04-4b32-81b3-a0efa9f08d03",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-09-02T00:21:51.000Z",
-      "updatedAt": "2026-09-02T00:21:51.000Z",
-      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
-      "bodyIs": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
-      "bodyEn": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 54.98,
-            "longitude": 14.97945
-          },
-          {
-            "latitude": 54.970283333333334,
-            "longitude": 14.90305
-          },
-          {
-            "latitude": 55.008716666666665,
-            "longitude": 14.84575
-          },
-          {
-            "latitude": 55.024483333333336,
-            "longitude": 14.917833333333334
-          },
-          {
-            "latitude": 55.016983333333336,
-            "longitude": 14.945533333333334
-          },
-          {
-            "latitude": 54.98,
-            "longitude": 14.97945
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-06d0d70b-54e3-4b0d-9a86-549ee8c6a409",
@@ -959,7 +986,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-bd64978b-c3c6-4d16-ab23-c150c6d58399",
@@ -986,7 +1013,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-00fe637a-f608-45fd-9b8d-1f3328b1ebb5",
@@ -1013,7 +1040,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-99f40175-759f-42ea-84a9-7daa33142787",
@@ -1040,7 +1067,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-033ac064-aeeb-46e6-a9c2-67d58e930823",
@@ -1067,7 +1094,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-20e46e78-1206-4f6a-8193-52bcd944df37",
@@ -1094,7 +1121,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-719a7767-c91d-4542-94dc-39f514f67529",
@@ -1121,7 +1148,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-b1276ba6-a6d7-40a9-9d09-83a585d94fe4",
@@ -1148,7 +1175,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-1040c21d-90fa-4ce3-a89c-62983c2d6cb6",
@@ -1175,7 +1202,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-36a44764-961b-4e7a-b640-2665ef0ad5b4",
@@ -1202,7 +1229,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-7f9c5004-8465-4ab4-8c93-b37f2e53ab21",
@@ -1245,7 +1272,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-afb7884f-1de0-4d43-947c-d7c594d0e05f",
@@ -1272,7 +1299,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-9464e570-6b60-4b9e-a4df-2fcd92ba6921",
@@ -1299,7 +1326,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-d05b67a3-26b8-4874-9e29-0b384c01517f",
@@ -1326,7 +1353,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-d8c02bb8-3fee-4078-8655-fecae8faf790",
@@ -1353,7 +1380,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-04f9fecd-e1e0-491a-8c2f-4e1767a6a757",
@@ -1380,7 +1407,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-2fb81c4c-9928-4674-975a-1ad84f562700",
@@ -1407,7 +1434,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-139c3bcc-4647-4c71-96eb-664a8fca8921",
@@ -1434,7 +1461,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-a292f781-8155-4e48-b8e2-0210227544c0",
@@ -1461,7 +1488,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-cd23a713-ca96-4566-92cf-856b650f8527",
@@ -1488,7 +1515,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
@@ -1515,7 +1542,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-09-11T13:26:52.864Z"
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
     },
     {
       "id": "dk-authority-dk-33fc0b55-1302-4681-b79b-5711b1cf20d0",
@@ -1537,6 +1564,65 @@
           {
             "latitude": 56.58333333333334,
             "longitude": 10.274499999999998
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T20:26:30.355Z"
+    },
+    {
+      "id": "dk-authority-dk-6fdd14c4-f1da-4956-a369-ed993b395438",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-6fdd14c4-f1da-4956-a369-ed993b395438",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-11T00:21:50.000Z",
+      "updatedAt": "2026-09-11T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "bodyIs": "11 September 2026, hours 08:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "11 September 2026, hours 08:00 - 17:00.\n24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
           }
         ]
       },
@@ -3299,6 +3385,65 @@
       "fetchedAt": "2026-09-06T02:33:28.120Z"
     },
     {
+      "id": "dk-authority-dk-4d5b4b88-055d-4fbc-8357-c8fa610a5bd7",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-4d5b4b88-055d-4fbc-8357-c8fa610a5bd7",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-04T00:21:51.000Z",
+      "updatedAt": "2026-09-04T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 81 Kallesmærsk W. Firing exercises. Warning.",
+      "bodyIs": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T13:26:52.864Z"
+    },
+    {
       "id": "dk-authority-dk-6ecece52-c2cb-4faa-b687-85e895a1fa1a",
       "authority": "Danish Maritime Authority",
       "country": "DK",
@@ -3454,6 +3599,65 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-09-04T17:23:00.147Z"
+    },
+    {
+      "id": "dk-authority-dk-ff007625-9855-470e-b60b-262c10e43376",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ff007625-9855-470e-b60b-262c10e43376",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-04T00:21:51.000Z",
+      "updatedAt": "2026-09-04T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 80 Kallesmærsk E. Firing exercises. Warning.",
+      "bodyIs": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "24 September 2026, hours 09:00 - 20:00.\n25 September 2026, hours 09:00 - 16:00.\n26 September 2026, hours 09:00 - 16:00.\n27 September 2026, hours 09:00 - 16:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T13:26:52.864Z"
     },
     {
       "id": "dk-authority-dk-3575c70f-2c37-4eb4-b6d5-4a8452c82031",
@@ -4170,6 +4374,61 @@
       "fetchedAt": "2026-09-02T13:27:41.593Z"
     },
     {
+      "id": "dk-authority-dk-616ce27d-d346-40e4-8edf-05b1179401b2",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-616ce27d-d346-40e4-8edf-05b1179401b2",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-02T00:21:51.000Z",
+      "updatedAt": "2026-09-02T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 395 Raghammer. Firing exercises. Warning.",
+      "bodyIs": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "bodyEn": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 01'N - 014° 55'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          },
+          {
+            "latitude": 54.907783333333334,
+            "longitude": 14.91555
+          },
+          {
+            "latitude": 54.948366666666665,
+            "longitude": 14.773083333333334
+          },
+          {
+            "latitude": 55.01518333333333,
+            "longitude": 14.749216666666667
+          },
+          {
+            "latitude": 55.03798333333334,
+            "longitude": 14.888016666666667
+          },
+          {
+            "latitude": 55.003566666666664,
+            "longitude": 15.032583333333333
+          },
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          },
+          {
+            "latitude": 54.931583333333336,
+            "longitude": 15.064916666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T13:26:52.864Z"
+    },
+    {
       "id": "dk-authority-dk-6d631a45-7780-4b9b-bd67-3d83d14376c8",
       "authority": "Danish Maritime Authority",
       "country": "DK",
@@ -4400,6 +4659,53 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-09-05T00:57:27.521Z"
+    },
+    {
+      "id": "dk-authority-dk-e9562306-6b04-4b32-81b3-a0efa9f08d03",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-e9562306-6b04-4b32-81b3-a0efa9f08d03",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-09-02T00:21:51.000Z",
+      "updatedAt": "2026-09-02T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The Baltic Sea. EK D 396 Hullebaek. Firing exercises. Warning.",
+      "bodyIs": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "bodyEn": "14 September 2026, hours 08:00 - 22:00.\n15 September 2026, hours 08:00 - 22:00.\n16 September 2026, hours 08:00 - 22:00.\n17 September 2026, hours 08:00 - 22:00.\n28 September 2026, hours 08:00 - 22:00.\n29 September 2026, hours 08:00 - 22:00.\n30 September 2026, hours 08:00 - 22:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice at position:\n55° 01'N - 014° 55'E.\nThe firing practice area covers two areas: Hullebæk (inner area) and Raghammer Odde (outer area). When firing is practiced in Raghammer Odde, firing is practiced in both areas.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted at signal mast 1 and 2.\nIn addition, a white, flashing light is lit on both signal masts (60 flashes per minute).\nb)\nIn darkness, lights displaying a red and a white alternating flash are lit on both signal masts (30 flashes per minute).\n55 ° 01,38'N - 014 ° 54,48'E, signal mast 1.\n55 ° 00,39'N - 014 ° 57,31'E, signal mast 2.\nInformation about firing practices is available from the safety office, tel. +45 5697 8106 / +45 2010 6551, or over VHF radio. Call name: Raghammer. Call channel: 16. Conversation channels: 6, 8 and 77. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 189, 188",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 54.98,
+            "longitude": 14.97945
+          },
+          {
+            "latitude": 54.970283333333334,
+            "longitude": 14.90305
+          },
+          {
+            "latitude": 55.008716666666665,
+            "longitude": 14.84575
+          },
+          {
+            "latitude": 55.024483333333336,
+            "longitude": 14.917833333333334
+          },
+          {
+            "latitude": 55.016983333333336,
+            "longitude": 14.945533333333334
+          },
+          {
+            "latitude": 54.98,
+            "longitude": 14.97945
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-09-11T13:26:52.864Z"
     },
     {
       "id": "dk-authority-dk-ec701a3d-d522-4cc9-8980-e40955525d8a",
@@ -10764,7 +11070,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19599",
@@ -10791,7 +11097,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19494",
@@ -10813,7 +11119,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19628",
@@ -10840,7 +11146,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19622",
@@ -10957,7 +11263,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19574",
@@ -10979,7 +11285,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19569",
@@ -11001,7 +11307,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19561",
@@ -11028,7 +11334,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19560",
@@ -11055,7 +11361,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19541",
@@ -11077,7 +11383,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19318",
@@ -11104,7 +11410,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19212",
@@ -11126,7 +11432,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19156",
@@ -11148,7 +11454,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19154",
@@ -11175,7 +11481,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19105",
@@ -11202,7 +11508,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19093",
@@ -11229,7 +11535,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19063",
@@ -11256,7 +11562,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-19019",
@@ -11278,7 +11584,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18938",
@@ -11305,7 +11611,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18883",
@@ -11332,7 +11638,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18706",
@@ -11359,7 +11665,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18705",
@@ -11381,7 +11687,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18704",
@@ -11430,7 +11736,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18702",
@@ -11457,7 +11763,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18701",
@@ -11492,7 +11798,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18700",
@@ -11519,7 +11825,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18699",
@@ -11546,7 +11852,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18698",
@@ -11573,7 +11879,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18697",
@@ -11600,7 +11906,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18696",
@@ -11627,7 +11933,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18694",
@@ -11654,7 +11960,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18695",
@@ -11681,7 +11987,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18693",
@@ -11708,7 +12014,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18692",
@@ -11735,7 +12041,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18691",
@@ -11757,7 +12063,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18690",
@@ -11784,7 +12090,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18689",
@@ -11811,7 +12117,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18688",
@@ -11833,7 +12139,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18687",
@@ -11860,7 +12166,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18686",
@@ -11882,7 +12188,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18685",
@@ -11909,7 +12215,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18684",
@@ -11931,7 +12237,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18683",
@@ -11958,7 +12264,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18682",
@@ -11985,7 +12291,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18681",
@@ -12016,7 +12322,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18680",
@@ -12043,7 +12349,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     },
     {
       "id": "is-lhg-warning-18679",
@@ -12065,7 +12371,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-09-11T13:26:53.343Z"
+      "fetchedAt": "2026-09-11T20:26:30.341Z"
     }
   ]
 }
