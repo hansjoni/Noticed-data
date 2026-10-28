@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T14:22:47.915Z",
+  "generatedAt": "2026-10-28T15:21:46.510Z",
   "datasets": {
     "warnings": {
       "path": "warnings.json",
       "version": "2e1936cb7b0b598f7d78a37958487b20e87bbee64555b4c93a3ec992d716dbd3",
-      "checkedAt": "2026-10-28T14:22:47.915Z",
+      "checkedAt": "2026-10-28T15:21:46.510Z",
       "updatedAt": "2026-10-28T13:22:01.747Z",
       "count": 595
     },
     "notices": {
       "path": "notices.json",
-      "version": "6b9eb09bc19422513f55b3066c6e50e19baf6b78b8b7d05076955ba892f77ed5",
-      "checkedAt": "2026-10-27T14:33:34.276Z",
-      "updatedAt": "2026-10-27T14:33:34.276Z",
-      "count": 787
+      "version": "50e085d031b5806bada9b25861eb54936732f440715c8f25fc5282fb035e87fb",
+      "checkedAt": "2026-10-28T15:21:46.510Z",
+      "updatedAt": "2026-10-28T15:21:46.510Z",
+      "count": 795
     }
   }
 }
