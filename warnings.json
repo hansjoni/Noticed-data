@@ -1,8 +1,350 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T15:30:51.226Z",
-  "version": "e90168bdd24e3b4ac0acea34091f4d854ed5da471b0b2fa7819bebf7fb8887c8",
+  "generatedAt": "2026-10-28T00:45:49.525Z",
+  "version": "9e54857c371477785445322f6face7c890fe42bd9dd2661be379d31f31c2f71f",
   "records": [
+    {
+      "id": "dk-authority-dk-236d3567-6ef9-47b7-a78f-b62b61bad392",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-236d3567-6ef9-47b7-a78f-b62b61bad392",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 08:00 - 22:00.\n29 October 2026, hours 08:00 - 22:00.\n30 October 2026, hours 08:00 - 22:59.\n31 October 2026, hours 08:00 - 22:59.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "bodyEn": "28 October 2026, hours 08:00 - 22:00.\n29 October 2026, hours 08:00 - 22:00.\n30 October 2026, hours 08:00 - 22:59.\n31 October 2026, hours 08:00 - 22:59.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n56° 32'N - 010° 26'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light (60 flashes per minute) is lit on the eastern signal mast.\nA sphere is hoisted on the western signal mast.\nb)\nIn darkness, a light is lit on the eastern signal mast displaying a red and white alternating flash (30 flashes per minute).\n56 ° 31,35'N - 010 ° 26,45'E, eastern signal mast.\n56 ° 31,88'N - 010 ° 24,35'E, w estern signal mast.\nDuring the period from 1 April to 15 November, supplementary marks are established consisting of posts with prohibition signs along the eastern and western limits extending till about 300 m off the coast. Information about firing practices is available from Camp Hevring, tel. +45 7283 9689 / +45 2542 5815 or from www.forsvaret.dk .\nWarnings about firing exercises at sea, can furthermore be obtained at www.soefartsstyrelsen.dk and, about firing exercises on land; at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 111, 122, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.425616666666667
+          },
+          {
+            "latitude": 56.518233333333335,
+            "longitude": 10.411133333333334
+          },
+          {
+            "latitude": 56.5825,
+            "longitude": 10.3875
+          },
+          {
+            "latitude": 56.55971666666667,
+            "longitude": 10.510833333333334
+          },
+          {
+            "latitude": 56.545,
+            "longitude": 10.523883333333334
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-a6c50527-7b46-4d62-b92a-4c3a91644210",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-a6c50527-7b46-4d62-b92a-4c3a91644210",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:53.000Z",
+      "titleIs": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 14:00 - 02:00.\n29 October 2026, hours 14:00 - 02:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "bodyEn": "28 October 2026, hours 14:00 - 02:00.\n29 October 2026, hours 14:00 - 02:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n55° 35'N - 008° 06'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the part of the area that is within the Danish territorial sea and navigation is dangerous in the entire area.\nInformation about firing practices is given by displaying the following signals on the northern and southern signal mast from one hour before the start of the firing practice and until its end:\na)\nBy daylight, a white, flashing light is lit (60 flashes per minute).\nb)\nIn darkness, a light displaying a red and white alternating flash is lit (30 flashes per minute).\n55 ° 37,24'N - 008 ° 07,04'E, northern signal mast.\n55 ° 33,53'N - 008 ° 04,67'E, southern signal mast.\nThe safety distance is given in nautical miles and is taken from the position:\n55 ° 35,01'N - 008 ° 08,21'E.\nAttention is drawn to the fact that the actual safety distance may extend beyond the area shown in the chart.\nAnnouncements about the firing practices of the day concerned and the next day are transmitted daily over Lyngby Radio at 07.05 and at 17.05 hours.\nInformation about firing practices is also available from Firing Safety Element in Camp Oksbøl, tel. +45 7283 9550, from www.forsvaret.dk/da/oevelsesaktiviteter/reg-syddanmark/skydninger-i-oksboel , or over VHF radio. Call name: Oksbøl. Call channel: 16. Conversation channels: 6 and 8. The radio is open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 61, 94, 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
+          },
+          {
+            "latitude": 55.561566666666664,
+            "longitude": 8.10195
+          },
+          {
+            "latitude": 55.538333333333334,
+            "longitude": 7.990283333333333
+          },
+          {
+            "latitude": 55.560833333333335,
+            "longitude": 7.8311166666666665
+          },
+          {
+            "latitude": 55.61183333333334,
+            "longitude": 7.823016666666667
+          },
+          {
+            "latitude": 55.72696666666667,
+            "longitude": 7.908383333333333
+          },
+          {
+            "latitude": 55.74463333333333,
+            "longitude": 8.014366666666668
+          },
+          {
+            "latitude": 55.61436666666667,
+            "longitude": 8.122916666666667
+          },
+          {
+            "latitude": 55.583333333333336,
+            "longitude": 8.1
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-bf782a51-b8d6-4ff1-97c6-2fb53261d35f",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-bf782a51-b8d6-4ff1-97c6-2fb53261d35f",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-c711e22c-2af3-46a2-aa60-7e28c0510886",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-c711e22c-2af3-46a2-aa60-7e28c0510886",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 19 MULTEX. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 19 MULTEX. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 12:00 - 21:00.\n29 October 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area in position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment wihtin a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activites in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na)\nIn daylight a flashing white light is lit (60 flashes per minute).\nb)\nIn darkness, a fixed red light is lit on the signal mast.\n56 ° 00,54'N - 011 ° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "bodyEn": "28 October 2026, hours 12:00 - 21:00.\n29 October 2026, hours 08:00 - 21:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area in position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment wihtin a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activites in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na)\nIn daylight a flashing white light is lit (60 flashes per minute).\nb)\nIn darkness, a fixed red light is lit on the signal mast.\n56 ° 00,54'N - 011 ° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.007783333333336,
+            "longitude": 11.282216666666667
+          },
+          {
+            "latitude": 56.11195,
+            "longitude": 11.173883333333333
+          },
+          {
+            "latitude": 56.13666666666666,
+            "longitude": 11.25445
+          },
+          {
+            "latitude": 56.29346666666667,
+            "longitude": 11.455
+          },
+          {
+            "latitude": 56.29346666666667,
+            "longitude": 11.605283333333333
+          },
+          {
+            "latitude": 56.03945,
+            "longitude": 11.818333333333333
+          },
+          {
+            "latitude": 56.02,
+            "longitude": 11.793333333333333
+          },
+          {
+            "latitude": 55.95778333333333,
+            "longitude": 11.640283333333333
+          },
+          {
+            "latitude": 56.007783333333336,
+            "longitude": 11.282216666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-f3789ab1-f422-475f-bf91-85d097cc2516",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-f3789ab1-f422-475f-bf91-85d097cc2516",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 08:00 - 20:00.\n29 October 2026, hours 08:00 - 21:00.\n30 October 2026, hours 08:00 - 14:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "bodyEn": "28 October 2026, hours 08:00 - 20:00.\n29 October 2026, hours 08:00 - 21:00.\n30 October 2026, hours 08:00 - 14:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.82839999999999,
+            "longitude": 11.868583333333333
+          },
+          {
+            "latitude": 55.892499999999984,
+            "longitude": 11.837216666666666
+          },
+          {
+            "latitude": 55.91543333333334,
+            "longitude": 11.863166666666666
+          },
+          {
+            "latitude": 55.89661666666666,
+            "longitude": 11.936166666666669
+          },
+          {
+            "latitude": 55.85803333333334,
+            "longitude": 11.964783333333333
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-fd39af71-64b2-4ea5-96c7-1c7ae3af311e",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-fd39af71-64b2-4ea5-96c7-1c7ae3af311e",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-28T00:21:50.000Z",
+      "updatedAt": "2026-10-28T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
+      "bodyIs": "28 October 2026, hours 13:00 - 15:00.\n29 October 2026, hours 09:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "bodyEn": "28 October 2026, hours 13:00 - 15:00.\n29 October 2026, hours 09:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 116, 128, 129, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 55.99166666666667,
+            "longitude": 11.398883333333334
+          },
+          {
+            "latitude": 55.93861666666667,
+            "longitude": 11.249166666666667
+          },
+          {
+            "latitude": 56.02583333333333,
+            "longitude": 11.168616666666667
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          },
+          {
+            "latitude": 56.0725,
+            "longitude": 11.306116666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
     {
       "id": "dk-authority-dk-78af3aa1-5f4e-4052-9218-04de47fb8bf2",
       "authority": "Danish Maritime Authority",
@@ -28,7 +370,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
     },
     {
       "id": "dk-authority-dk-07792905-4523-4755-bfcf-77e81c6a0950",
@@ -55,7 +397,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
     },
     {
       "id": "dk-authority-dk-a711c63c-fcee-47e6-8fbc-f4f62469286c",
@@ -82,7 +424,845 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-aa551e89-a478-426d-80ef-0da2ae3710dc",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-aa551e89-a478-426d-80ef-0da2ae3710dc",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-10-27T09:21:50.000Z",
+      "updatedAt": "2026-10-27T09:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 12 Gniben. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 12 Gniben. Firing exercises. Warning.",
+      "bodyIs": "29 October 2026, hours 13:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 128, 129, 102, 100",
+      "bodyEn": "29 October 2026, hours 13:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 128, 129, 102, 100",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.02721666666667,
+            "longitude": 11.40445
+          },
+          {
+            "latitude": 55.99166666666667,
+            "longitude": 11.398883333333334
+          },
+          {
+            "latitude": 56.007783333333336,
+            "longitude": 11.282216666666667
+          },
+          {
+            "latitude": 56.066116666666666,
+            "longitude": 11.221383333333334
+          },
+          {
+            "latitude": 56.077216666666665,
+            "longitude": 11.248883333333334
+          },
+          {
+            "latitude": 56.07305,
+            "longitude": 11.343333333333334
+          },
+          {
+            "latitude": 56.02721666666667,
+            "longitude": 11.40445
+          },
+          {
+            "latitude": 56.02721666666667,
+            "longitude": 11.40445
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
+      "warningNumber": "NW-424-26",
+      "status": "active",
+      "publishedAt": "2026-10-27T07:25:21.000Z",
+      "updatedAt": "2026-10-27T12:51:50.000Z",
+      "titleIs": "NW-424-26 · Denmark. The North Sea. Esbjerg. Light buoy missing.",
+      "titleEn": "NW-424-26 · Denmark. The North Sea. Esbjerg. Light buoy missing.",
+      "bodyIs": "Esbjerg\nLight buoy missing\nThe starboard hand light buoy\nNo 29\nin pos.\n55° 27.2'N - 008° 27.0'E\nis missing.",
+      "bodyEn": "Esbjerg\nLight buoy missing\nThe starboard hand light buoy\nNo 29\nin pos.\n55° 27.2'N - 008° 27.0'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.45256340772332,
+            "longitude": 8.449921625346954
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-47c73183-7f87-41d8-a9a9-1a3a96235a04",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-47c73183-7f87-41d8-a9a9-1a3a96235a04",
+      "warningNumber": "NW-422-26",
+      "status": "active",
+      "publishedAt": "2026-10-26T16:29:41.000Z",
+      "updatedAt": "2026-10-27T13:51:47.000Z",
+      "titleIs": "NW-422-26 · Denmark. The Liim Fiord. Thyboroen Canal. Light buoy off station.",
+      "titleEn": "NW-422-26 · Denmark. The Liim Fiord. Thyboroen Canal. Light buoy off station.",
+      "bodyIs": "Thyboroen Canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.5'N - 008° 13.9'E\nis off station.",
+      "bodyEn": "Thyboroen Canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.5'N - 008° 13.9'E\nis off station.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.708473550019534,
+            "longitude": 8.230953896654645
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-c6c38d98-f2dd-4c2c-9132-552d437c4cb6",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-c6c38d98-f2dd-4c2c-9132-552d437c4cb6",
+      "warningNumber": "NW-421-26",
+      "status": "active",
+      "publishedAt": "2026-10-26T16:26:50.000Z",
+      "updatedAt": "2026-10-27T13:52:18.000Z",
+      "titleIs": "NW-421-26 · Denmark. The Liim Fiord. Thyboroen canal. Light buoy off station.",
+      "titleEn": "NW-421-26 · Denmark. The Liim Fiord. Thyboroen canal. Light buoy off station.",
+      "bodyIs": "Thyboroen canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.7'N - 008° 13.6'E\nis off station.",
+      "bodyEn": "Thyboroen canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.7'N - 008° 13.6'E\nis off station.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.71204219201957,
+            "longitude": 8.225839304169963
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-3ce1828d-e59d-4ebe-a0ec-f7d65ca62c68",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-3ce1828d-e59d-4ebe-a0ec-f7d65ca62c68",
+      "warningNumber": "NW-420-26",
+      "status": "active",
+      "publishedAt": "2026-10-26T14:53:09.000Z",
+      "updatedAt": "2026-10-27T12:51:32.000Z",
+      "titleIs": "NW-420-26 · Denmark. The North Sea. Esbjerg. Light buoy off station.",
+      "titleEn": "NW-420-26 · Denmark. The North Sea. Esbjerg. Light buoy off station.",
+      "bodyIs": "Esbjerg\nLight buoy off station\nThe starboard hand light buoy\nNo 15A\nin pos.\n55° 29.0'N - 008° 22.6'E\nis off station.",
+      "bodyEn": "Esbjerg\nLight buoy off station\nThe starboard hand light buoy\nNo 15A\nin pos.\n55° 29.0'N - 008° 22.6'E\nis off station.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.4840109296085,
+            "longitude": 8.376172277703187
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-a2c25855-f282-4bd8-a440-553761d5d341",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-a2c25855-f282-4bd8-a440-553761d5d341",
+      "warningNumber": "Local Warning-262-26",
+      "status": "active",
+      "publishedAt": "2026-10-25T13:16:55.000Z",
+      "updatedAt": "2026-10-27T12:43:32.000Z",
+      "titleIs": "Local Warning-262-26 · Denmark. The Sound. Gilleleje. Reduced depth.",
+      "titleEn": "Local Warning-262-26 · Denmark. The Sound. Gilleleje. Reduced depth.",
+      "bodyIs": "Gilleleje\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n56° 07.7'N - 012° 18.7'E.\nMariners are advised to keep well clear.",
+      "bodyEn": "Gilleleje\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n56° 07.7'N - 012° 18.7'E.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.12778111155069,
+            "longitude": 12.310986014108275
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-ea4c1ed6-45b3-41cb-86da-c36a175d0e99",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ea4c1ed6-45b3-41cb-86da-c36a175d0e99",
+      "warningNumber": "NW-415-26",
+      "status": "active",
+      "publishedAt": "2026-10-22T10:23:44.000Z",
+      "updatedAt": "2026-10-22T10:23:44.000Z",
+      "titleIs": "NW-415-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
+      "titleEn": "NW-415-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
+      "bodyIs": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy in pos. 54° 33.9'N - 011° 55.6'E is missing.",
+      "bodyEn": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy in pos. 54° 33.9'N - 011° 55.6'E is missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.5652062140293,
+            "longitude": 11.927443504333473
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
+      "warningNumber": "NW-414-26",
+      "status": "active",
+      "publishedAt": "2026-10-21T11:43:03.000Z",
+      "updatedAt": "2026-10-21T11:43:03.000Z",
+      "titleIs": "NW-414-26 · Denmark. The Great Belt. Nakskov Fjord. Enehøje Gravede Rende. Light buoy unlit.",
+      "titleEn": "NW-414-26 · Denmark. The Great Belt. Nakskov Fjord. Enehøje Gravede Rende. Light buoy unlit.",
+      "bodyIs": "Nakskov Fjord. Enehøje Gravede Rende\nLight buoy unlit\nThe starboard hand light buoy\nEnehøje Gravede Rende stb 1\nin pos.\n54° 51.8'N - 010° 56.3'E\nis unlit.",
+      "bodyEn": "Nakskov Fjord. Enehøje Gravede Rende\nLight buoy unlit\nThe starboard hand light buoy\nEnehøje Gravede Rende stb 1\nin pos.\n54° 51.8'N - 010° 56.3'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.86277709413716,
+            "longitude": 10.938699175571116
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
+      "warningNumber": "NW-408-26",
+      "status": "active",
+      "publishedAt": "2026-10-15T14:17:06.000Z",
+      "updatedAt": "2026-10-16T08:53:18.000Z",
+      "titleIs": "NW-408-26 · Denmark. Kattegat. Randers Fjord. Kare Holm. Light buoy unlit.",
+      "titleEn": "NW-408-26 · Denmark. Kattegat. Randers Fjord. Kare Holm. Light buoy unlit.",
+      "bodyIs": "Randers Fjord. Kare Holm\nLight buoy unlit\nThe port hand light buoy\nin pos.\n56° 32.9'N - 010° 13.9'E\nis unlit.",
+      "bodyEn": "Randers Fjord. Kare Holm\nLight buoy unlit\nThe port hand light buoy\nin pos.\n56° 32.9'N - 010° 13.9'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.548064571336596,
+            "longitude": 10.231838138314798
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-6178960a-ceab-4871-a638-f05a076d05f8",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-6178960a-ceab-4871-a638-f05a076d05f8",
+      "warningNumber": "NW-401-26",
+      "status": "active",
+      "publishedAt": "2026-10-09T10:12:42.000Z",
+      "updatedAt": "2026-10-21T11:15:55.000Z",
+      "titleIs": "NW-401-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
+      "titleEn": "NW-401-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
+      "bodyIs": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n54° 31.4'N - 011° 56.4'E\nis missing.",
+      "bodyEn": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n54° 31.4'N - 011° 56.4'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.52378272276465,
+            "longitude": 11.939674377441381
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
+      "warningNumber": "Local Warning-261-26",
+      "status": "active",
+      "publishedAt": "2026-10-09T05:39:28.000Z",
+      "updatedAt": "2026-10-09T11:07:19.000Z",
+      "titleIs": "Local Warning-261-26 · Denmark. The Waters South of Zealand. Skælskør. Buoy missing.",
+      "titleEn": "Local Warning-261-26 · Denmark. The Waters South of Zealand. Skælskør. Buoy missing.",
+      "bodyIs": "Skælskør\nBuoy missing\nThe starboard hand buoy\nin pos.\n55° 15.0'N - 011° 14.2'E\nis missing.",
+      "bodyEn": "Skælskør\nBuoy missing\nThe starboard hand buoy\nin pos.\n55° 15.0'N - 011° 14.2'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.25013352868913,
+            "longitude": 11.236099007128843
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-2011c6c5-1dd2-4db8-bf51-27669338ea24",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-2011c6c5-1dd2-4db8-bf51-27669338ea24",
+      "warningNumber": "NW-398-26",
+      "status": "active",
+      "publishedAt": "2026-10-05T13:58:45.000Z",
+      "updatedAt": "2026-10-06T09:39:17.000Z",
+      "titleIs": "NW-398-26 · Denmark. The Little Belt. Fænø S. Unmarked Wreck.",
+      "titleEn": "NW-398-26 · Denmark. The Little Belt. Fænø S. Unmarked Wreck.",
+      "bodyIs": "Fænø S.\nUnmarked Wreck\nA vessel\nhas sunk\nin pos.\n55° 28.2'N - 009° 41.6'E.\nThe depth above the wreck is unknown.\nThe wreck is unmarked.\nMariners are advised to keep well clear.",
+      "bodyEn": "Fænø S.\nUnmarked Wreck\nA vessel\nhas sunk\nin pos.\n55° 28.2'N - 009° 41.6'E.\nThe depth above the wreck is unknown.\nThe wreck is unmarked.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.47,
+            "longitude": 9.693333333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
+      "warningNumber": "NW-390-26",
+      "status": "active",
+      "publishedAt": "2026-10-02T13:00:27.000Z",
+      "updatedAt": "2026-10-02T13:10:48.000Z",
+      "titleIs": "NW-390-26 · Denmark. The North Sea. Light buoy missing.",
+      "titleEn": "NW-390-26 · Denmark. The North Sea. Light buoy missing.",
+      "bodyIs": "Light buoy missing\nThe special light buoy\nin pos.\n56° 29.3'N - 006° 29.9'E\nis missing.",
+      "bodyEn": "Light buoy missing\nThe special light buoy\nin pos.\n56° 29.3'N - 006° 29.9'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.48866504581321,
+            "longitude": 6.497750279108684
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-66230232-39be-4e02-9e12-12250634495a",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-66230232-39be-4e02-9e12-12250634495a",
+      "warningNumber": "Local Warning-259-26",
+      "status": "active",
+      "publishedAt": "2026-10-01T09:44:07.000Z",
+      "updatedAt": "2026-10-06T07:59:42.000Z",
+      "titleIs": "Local Warning-259-26 · Denmark. The Liim Fiord. Klitgård Hage. Reduced depth.",
+      "titleEn": "Local Warning-259-26 · Denmark. The Liim Fiord. Klitgård Hage. Reduced depth.",
+      "bodyIs": "Klitgård Hage\nReduced depth\nWater depths down to 3.5m have been observed in the area around pos. 57° 01.9'N - 009° 39.8'E.\nMariners are advised to keep well clear.",
+      "bodyEn": "Klitgård Hage\nReduced depth\nWater depths down to 3.5m have been observed in the area around pos. 57° 01.9'N - 009° 39.8'E.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 57.03223833741015,
+            "longitude": 9.662672823277827
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-bcb88c9e-c5c3-414c-9955-c3bbd345bffc",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-bcb88c9e-c5c3-414c-9955-c3bbd345bffc",
+      "warningNumber": "Local Warning-258-26",
+      "status": "active",
+      "publishedAt": "2026-10-01T09:26:36.000Z",
+      "updatedAt": "2026-10-15T08:55:10.000Z",
+      "titleIs": "Local Warning-258-26 · Denmark. Waters South of Funen. Marstal. Sønderrenden. Buoy missing.",
+      "titleEn": "Local Warning-258-26 · Denmark. Waters South of Funen. Marstal. Sønderrenden. Buoy missing.",
+      "bodyIs": "Marstal. Sønderrenden\nBuoy missing\nThe port hand buoy\nin pos.\n54° 50.9'N - 010° 32.4'E\nis missing.",
+      "bodyEn": "Marstal. Sønderrenden\nBuoy missing\nThe port hand buoy\nin pos.\n54° 50.9'N - 010° 32.4'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.84784159420997,
+            "longitude": 10.540767326482248
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-56be80dd-b246-4b90-84de-1b1730052dfc",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-56be80dd-b246-4b90-84de-1b1730052dfc",
+      "warningNumber": "NW-385-26",
+      "status": "active",
+      "publishedAt": "2026-09-29T13:52:36.000Z",
+      "updatedAt": "2026-09-29T13:52:36.000Z",
+      "titleIs": "NW-385-26 · Denmark. The North Sea. Rømø Dyb. Light unlit.",
+      "titleEn": "NW-385-26 · Denmark. The North Sea. Rømø Dyb. Light unlit.",
+      "bodyIs": "Rømø Dyb\nLight unlit\nThe light post\nin pos.\n55° 03.9'N - 008° 32.5'E\nis unlit.",
+      "bodyEn": "Rømø Dyb\nLight unlit\nThe light post\nin pos.\n55° 03.9'N - 008° 32.5'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.064257167477905,
+            "longitude": 8.54183880461832
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-21ebf93f-95cf-43d1-a8d6-fddac60f9f8c",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-21ebf93f-95cf-43d1-a8d6-fddac60f9f8c",
+      "warningNumber": "NW-383-26",
+      "status": "active",
+      "publishedAt": "2026-09-29T08:25:23.000Z",
+      "updatedAt": "2026-09-29T08:25:23.000Z",
+      "titleIs": "NW-383-26 · Denmark. Kattegat. Als Odde. Light buoy missing.",
+      "titleEn": "NW-383-26 · Denmark. Kattegat. Als Odde. Light buoy missing.",
+      "bodyIs": "Als Odde\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 43.0'N - 010° 25.6'E\nis missing.",
+      "bodyEn": "Als Odde\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 43.0'N - 010° 25.6'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.717422107415814,
+            "longitude": 10.426187309519452
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
+      "warningNumber": "NW-372-26",
+      "status": "active",
+      "publishedAt": "2026-09-24T10:03:04.000Z",
+      "updatedAt": "2026-10-21T09:57:48.000Z",
+      "titleIs": "NW-372-26 · Denmark. The Little Belt. Årø Sund. Light unlit.",
+      "titleEn": "NW-372-26 · Denmark. The Little Belt. Årø Sund. Light unlit.",
+      "bodyIs": "Årø Sund\nLight unlit\nThe sector light\nÅrøsund Havn\nin pos.\n55° 15.7'N - 009° 42.7'E\nis unlit.",
+      "bodyEn": "Årø Sund\nLight unlit\nThe sector light\nÅrøsund Havn\nin pos.\n55° 15.7'N - 009° 42.7'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.26225619309167,
+            "longitude": 9.71222263493696
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
+      "warningNumber": "NW-367-26",
+      "status": "active",
+      "publishedAt": "2026-09-23T08:25:51.000Z",
+      "updatedAt": "2026-10-27T12:50:22.000Z",
+      "titleIs": "NW-367-26 · Denmark. The Liim Fiord. Oddesundbroen. Light unlit.",
+      "titleEn": "NW-367-26 · Denmark. The Liim Fiord. Oddesundbroen. Light unlit.",
+      "bodyIs": "Oddesundbroen\nLight unlit\nThe light\nin pos.\n56° 34.7'N - 008° 33.5'E\nis unlit.",
+      "bodyEn": "Oddesundbroen\nLight unlit\nThe light\nin pos.\n56° 34.7'N - 008° 33.5'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.57858550277194,
+            "longitude": 8.557838143189747
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-05c63fc3-0c3d-47bb-8583-21ea3e008e80",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-05c63fc3-0c3d-47bb-8583-21ea3e008e80",
+      "warningNumber": "Local Warning-254-26",
+      "status": "active",
+      "publishedAt": "2026-09-23T08:25:21.000Z",
+      "updatedAt": "2026-10-13T11:43:52.000Z",
+      "titleIs": "Local Warning-254-26 · Denmark. Waters South of Funen. Siø. Reduced depth.",
+      "titleEn": "Local Warning-254-26 · Denmark. Waters South of Funen. Siø. Reduced depth.",
+      "bodyIs": "Siø\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n54° 58.4'N - 010° 42.3'E.\nMariners are advised to keep well clear.",
+      "bodyEn": "Siø\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n54° 58.4'N - 010° 42.3'E.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.97291666666667,
+            "longitude": 10.704616666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-969caee2-46db-443a-8287-20d63bb4fb23",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-969caee2-46db-443a-8287-20d63bb4fb23",
+      "warningNumber": "Local Warning-253-26",
+      "status": "active",
+      "publishedAt": "2026-09-22T12:16:56.000Z",
+      "updatedAt": "2026-10-02T07:54:42.000Z",
+      "titleIs": "Local Warning-253-26 · Denmark. The Sound. Hornbæk Havn. Reduced depth.",
+      "titleEn": "Local Warning-253-26 · Denmark. The Sound. Hornbæk Havn. Reduced depth.",
+      "bodyIs": "Hornbæk Havn\nReduced depth\nWater depths down to 1.5m have been observed in the western part of the entrance to Hornbæk Havn in pos. 56° 05.8'N - 012° 27.5'E.\nMariners are advised to keep well clear.",
+      "bodyEn": "Hornbæk Havn\nReduced depth\nWater depths down to 1.5m have been observed in the western part of the entrance to Hornbæk Havn in pos. 56° 05.8'N - 012° 27.5'E.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.09618901007099,
+            "longitude": 12.458801895687921
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-1364b816-53fa-4b38-b456-ac11921f3153",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-1364b816-53fa-4b38-b456-ac11921f3153",
+      "warningNumber": "Local Warning-251-26",
+      "status": "active",
+      "publishedAt": "2026-09-22T09:50:17.000Z",
+      "updatedAt": "2026-10-08T11:13:59.000Z",
+      "titleIs": "Local Warning-251-26 · Denmark. The Liim Fiord. Gjøl Fiskeri- og Lystbådehavn. Reduced depth.",
+      "titleEn": "Local Warning-251-26 · Denmark. The Liim Fiord. Gjøl Fiskeri- og Lystbådehavn. Reduced depth.",
+      "bodyIs": "Gjøl Fiskeri- og Lystbådehavn\nReduced depth\nWater depths down to 1.5m have been observed in pos. 57° 03.7'N - 009° 42.1'E in the entrance to Gjøl Fiskeri- og Lystbådehavn.\nMariners are advised to keep well clear.",
+      "bodyEn": "Gjøl Fiskeri- og Lystbådehavn\nReduced depth\nWater depths down to 1.5m have been observed in pos. 57° 03.7'N - 009° 42.1'E in the entrance to Gjøl Fiskeri- og Lystbådehavn.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 57.062083333333334,
+            "longitude": 9.701
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
+      "warningNumber": "Local Warning-249-26",
+      "status": "active",
+      "publishedAt": "2026-09-21T19:17:43.000Z",
+      "updatedAt": "2026-10-27T12:49:12.000Z",
+      "titleIs": "Local Warning-249-26 · Denmark. The Waters South of Zealand. Grønsund. Yellow buoy.",
+      "titleEn": "Local Warning-249-26 · Denmark. The Waters South of Zealand. Grønsund. Yellow buoy.",
+      "bodyIs": "Grønsund\nYellow buoy\nA yellow buoy has been observed in pos. 54° 55.6'N - 011° 59.7'E.",
+      "bodyEn": "Grønsund\nYellow buoy\nA yellow buoy has been observed in pos. 54° 55.6'N - 011° 59.7'E.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.92695000000003,
+            "longitude": 11.995616666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
+      "warningNumber": "Local Warning-246-26",
+      "status": "active",
+      "publishedAt": "2026-09-21T09:25:54.000Z",
+      "updatedAt": "2026-10-15T08:54:52.000Z",
+      "titleIs": "Local Warning-246-26 · Denmark. The Sound. Ishøj S. Light unlit.",
+      "titleEn": "Local Warning-246-26 · Denmark. The Sound. Ishøj S. Light unlit.",
+      "bodyIs": "Ishøj S\nLight unlit\nThe mole head light\nin pos.\n55° 36.3'N - 012° 24.0'E\nis unlit.",
+      "bodyEn": "Ishøj S\nLight unlit\nThe mole head light\nin pos.\n55° 36.3'N - 012° 24.0'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.604481378519694,
+            "longitude": 12.400770941034727
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
+      "warningNumber": "Local Warning-245-26",
+      "status": "active",
+      "publishedAt": "2026-09-21T09:24:55.000Z",
+      "updatedAt": "2026-10-15T08:57:56.000Z",
+      "titleIs": "Local Warning-245-26 · Denmark. The Sound. Vallensbæk Lystbådehavn. Light unlit.",
+      "titleEn": "Local Warning-245-26 · Denmark. The Sound. Vallensbæk Lystbådehavn. Light unlit.",
+      "bodyIs": "Vallensbæk Lystbådehavn\nLight unlit\nThe red mole head light in pos. 55° 36.6'N - 012° 24.1'E is unlit.",
+      "bodyEn": "Vallensbæk Lystbådehavn\nLight unlit\nThe red mole head light in pos. 55° 36.6'N - 012° 24.1'E is unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.609330926437366,
+            "longitude": 12.400940255728017
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
+      "warningNumber": "Local Warning-244-26",
+      "status": "active",
+      "publishedAt": "2026-09-18T12:09:19.000Z",
+      "updatedAt": "2026-10-21T09:56:18.000Z",
+      "titleIs": "Local Warning-244-26 · Denmark. Næstved Havn. Reduced depth.",
+      "titleEn": "Local Warning-244-26 · Denmark. Næstved Havn. Reduced depth.",
+      "bodyIs": "Næstved Havn\nReduced depth\nWater depths down to 5.25m have been observed around pos. 55° 13.6'N - 011° 45.3'E.\nMariners are advised to keep well clear.",
+      "bodyEn": "Næstved Havn\nReduced depth\nWater depths down to 5.25m have been observed around pos. 55° 13.6'N - 011° 45.3'E.\nMariners are advised to keep well clear.",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.22701666666666,
+            "longitude": 11.755516666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-0214af79-d165-4811-b52d-dd147c51483c",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-0214af79-d165-4811-b52d-dd147c51483c",
+      "warningNumber": "Local Warning-237-26",
+      "status": "active",
+      "publishedAt": "2026-09-08T10:48:48.000Z",
+      "updatedAt": "2026-10-02T12:14:46.000Z",
+      "titleIs": "Local Warning-237-26 · Denmark. Waters South of Funen. Langelandsbroen. Light unlit.",
+      "titleEn": "Local Warning-237-26 · Denmark. Waters South of Funen. Langelandsbroen. Light unlit.",
+      "bodyIs": "Langelandsbroen\nLight unlit\nThe green sector light in pos. 54° 56.9'N - 010° 42.4'E is unlit.",
+      "bodyEn": "Langelandsbroen\nLight unlit\nThe green sector light in pos. 54° 56.9'N - 010° 42.4'E is unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.94795203841312,
+            "longitude": 10.7072286743475
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
+      "warningNumber": "Local Warning-231-26",
+      "status": "active",
+      "publishedAt": "2026-09-03T08:21:15.000Z",
+      "updatedAt": "2026-10-06T06:55:04.000Z",
+      "titleIs": "Local Warning-231-26 · Denmark. The Great Belt. Buoy missing.",
+      "titleEn": "Local Warning-231-26 · Denmark. The Great Belt. Buoy missing.",
+      "bodyIs": "Buoy missing\nThe special buoy\nin pos.\n55° 13.8'N - 011° 05.4'E\nis missing.",
+      "bodyEn": "Buoy missing\nThe special buoy\nin pos.\n55° 13.8'N - 011° 05.4'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.22950096903827,
+            "longitude": 11.089800496385365
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-719a7767-c91d-4542-94dc-39f514f67529",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-719a7767-c91d-4542-94dc-39f514f67529",
+      "warningNumber": "Local Warning-224-26",
+      "status": "active",
+      "publishedAt": "2026-08-27T09:43:31.000Z",
+      "updatedAt": "2026-10-14T08:49:21.000Z",
+      "titleIs": "Local Warning-224-26 · Denmark. The Sound. Kalvebodbroerne. Light unlit.",
+      "titleEn": "Local Warning-224-26 · Denmark. The Sound. Kalvebodbroerne. Light unlit.",
+      "bodyIs": "Kalvebodbroerne\nLight unlit\nThe green sector light in pos. 55° 36.8'N - 012° 30.7'E is unlit.",
+      "bodyEn": "Kalvebodbroerne\nLight unlit\nThe green sector light in pos. 55° 36.8'N - 012° 30.7'E is unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.613818206741655,
+            "longitude": 12.511879300594332
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
+    },
+    {
+      "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
+      "warningNumber": "Local Warning-156-26",
+      "status": "active",
+      "publishedAt": "2026-06-03T13:21:36.000Z",
+      "updatedAt": "2026-06-03T13:21:51.000Z",
+      "titleIs": "Local Warning-156-26 · Denmark. The Liim Fiord. Lysen Bredning. Buoy observed.",
+      "titleEn": "Local Warning-156-26 · Denmark. The Liim Fiord. Lysen Bredning. Buoy observed.",
+      "bodyIs": "Lysen Bredning\nBuoy observed\nA yellow buoy has been observed in pos. 56° 42.1'N - 008° 49.1'E.",
+      "bodyEn": "Lysen Bredning\nBuoy observed\nA yellow buoy has been observed in pos. 56° 42.1'N - 008° 49.1'E.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.70088333333334,
+            "longitude": 8.818483333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-28T00:45:50.599Z"
     },
     {
       "id": "dk-authority-dk-359142c4-49a5-4f74-b73a-f72ccd446218",
@@ -90,7 +1270,7 @@
       "country": "DK",
       "sourceId": "dma-dk-359142c4-49a5-4f74-b73a-f72ccd446218",
       "warningNumber": "undefined",
-      "status": "active",
+      "status": "inactive",
       "publishedAt": "2026-10-27T10:21:50.000Z",
       "updatedAt": "2026-10-27T10:21:51.000Z",
       "titleIs": "undefined · Denmark. Kattegat. EK R 45 Hevring. Firing exercises. Warning.",
@@ -137,7 +1317,7 @@
       "country": "DK",
       "sourceId": "dma-dk-6fbcfd46-6154-4c52-9a17-c79711269b37",
       "warningNumber": "undefined",
-      "status": "active",
+      "status": "inactive",
       "publishedAt": "2026-10-27T09:21:50.000Z",
       "updatedAt": "2026-10-27T09:21:51.000Z",
       "titleIs": "undefined · Denmark. The North Sea. EK R 33 Vejers. Firing exercises. Warning.",
@@ -196,7 +1376,7 @@
       "country": "DK",
       "sourceId": "dma-dk-8b1c9494-6381-4c24-ac85-a4a7c3963f79",
       "warningNumber": "undefined",
-      "status": "active",
+      "status": "inactive",
       "publishedAt": "2026-10-27T09:21:50.000Z",
       "updatedAt": "2026-10-27T09:21:51.000Z",
       "titleIs": "undefined · Denmark. Kattegat. EK R 20 Yderby. Firing exercises. Warning.",
@@ -242,67 +1422,12 @@
       "fetchedAt": "2026-10-27T15:30:52.399Z"
     },
     {
-      "id": "dk-authority-dk-aa551e89-a478-426d-80ef-0da2ae3710dc",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-aa551e89-a478-426d-80ef-0da2ae3710dc",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-10-27T09:21:50.000Z",
-      "updatedAt": "2026-10-27T09:21:51.000Z",
-      "titleIs": "undefined · Denmark. Kattegat. EK R 12 Gniben. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Kattegat. EK R 12 Gniben. Firing exercises. Warning.",
-      "bodyIs": "29 October 2026, hours 13:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 128, 129, 102, 100",
-      "bodyEn": "29 October 2026, hours 13:00 - 15:30.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary danger area is established on the sea off the firing practice area at position:\n56° 00'N - 011° 17'E, Gniben.\nShooting targets at anchor can be present in the area outside the announced shooting hours. The shooting targets are marked with white light showing Mo(R).\nDeployment of fishing equipment within a radius of 0.5nm from the anchored shooting targets, is prohibited.\nDuring the announced shooting hours, mariners must observe proper caution and, at all times, follow the instructions regarding passage of and other activities in the shooting area, from the shooting office (GNIBEN Range Control) at Naval Weapons Center.\nFiring practices are announced by displaying the following signals on the signal mast, from one hour before the start of the firing practice and until its end:\na) In daylight flashing white light is lit (60 flashes per minute).\nb) In darkness, a fixed red light is lit on the signal mast.\n56° 00,54'N - 011° 16,76'E, signal mast.\nInformation about firing practises, and information about precautions for mariners regarding passage of and other activities in the shooting area, can be obtained from Naval Weapons Center, tel. +45 7285 5513/+45 7285 5514 or by VHF radio. Callsign: GNIBEN RANGE CONTROL. Hailing channel 16. Communication channel 6. The radio is operative from 1 hour before start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 128, 129, 102, 100",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 56.02721666666667,
-            "longitude": 11.40445
-          },
-          {
-            "latitude": 55.99166666666667,
-            "longitude": 11.398883333333334
-          },
-          {
-            "latitude": 56.007783333333336,
-            "longitude": 11.282216666666667
-          },
-          {
-            "latitude": 56.066116666666666,
-            "longitude": 11.221383333333334
-          },
-          {
-            "latitude": 56.077216666666665,
-            "longitude": 11.248883333333334
-          },
-          {
-            "latitude": 56.07305,
-            "longitude": 11.343333333333334
-          },
-          {
-            "latitude": 56.02721666666667,
-            "longitude": 11.40445
-          },
-          {
-            "latitude": 56.02721666666667,
-            "longitude": 11.40445
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
       "id": "dk-authority-dk-edb93e36-64f2-407b-8deb-020ddd494f86",
       "authority": "Danish Maritime Authority",
       "country": "DK",
       "sourceId": "dma-dk-edb93e36-64f2-407b-8deb-020ddd494f86",
       "warningNumber": "undefined",
-      "status": "active",
+      "status": "inactive",
       "publishedAt": "2026-10-27T09:21:50.000Z",
       "updatedAt": "2026-10-27T09:21:51.000Z",
       "titleIs": "undefined · Denmark. Kattegat. EK R 19 MULTEX. Firing exercises. Warning.",
@@ -356,31 +1481,31 @@
       "fetchedAt": "2026-10-27T15:30:52.399Z"
     },
     {
-      "id": "dk-authority-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
+      "id": "dk-authority-dk-d4f46b8c-ec4e-43fc-9343-e5c053e49a80",
       "authority": "Danish Maritime Authority",
       "country": "DK",
-      "sourceId": "dma-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
-      "warningNumber": "NW-424-26",
-      "status": "active",
-      "publishedAt": "2026-10-27T07:25:21.000Z",
-      "updatedAt": "2026-10-27T12:51:50.000Z",
-      "titleIs": "NW-424-26 · Denmark. The North Sea. Esbjerg. Light buoy missing.",
-      "titleEn": "NW-424-26 · Denmark. The North Sea. Esbjerg. Light buoy missing.",
-      "bodyIs": "Esbjerg\nLight buoy missing\nThe starboard hand light buoy\nNo 29\nin pos.\n55° 27.2'N - 008° 27.0'E\nis missing.",
-      "bodyEn": "Esbjerg\nLight buoy missing\nThe starboard hand light buoy\nNo 29\nin pos.\n55° 27.2'N - 008° 27.0'E\nis missing.",
+      "sourceId": "dma-dk-d4f46b8c-ec4e-43fc-9343-e5c053e49a80",
+      "warningNumber": "NW-423-26",
+      "status": "inactive",
+      "publishedAt": "2026-10-27T07:00:30.000Z",
+      "updatedAt": "2026-10-27T07:01:37.000Z",
+      "titleIs": "NW-423-26 · Denmark. The Great Belt. Storebæltsbroen. Light unlit.",
+      "titleEn": "NW-423-26 · Denmark. The Great Belt. Storebæltsbroen. Light unlit.",
+      "bodyIs": "Storebæltsbroen\nLight unlit\nThe light\nin pos.\n55° 20.6'N - 011° 02.5'E\nis unlit.",
+      "bodyEn": "Storebæltsbroen\nLight unlit\nThe light\nin pos.\n55° 20.6'N - 011° 02.5'E\nis unlit.",
       "category": "aid-to-navigation",
       "geometry": {
         "type": "point",
         "coordinates": [
           {
-            "latitude": 55.45256340772332,
-            "longitude": 8.449921625346954
+            "latitude": 55.342750000000024,
+            "longitude": 11.041066666666667
           }
         ]
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
+      "fetchedAt": "2026-10-27T14:33:34.938Z"
     },
     {
       "id": "dk-authority-dk-0a637dc9-1f72-4101-88f3-2182fce4ebe9",
@@ -388,7 +1513,7 @@
       "country": "DK",
       "sourceId": "dma-dk-0a637dc9-1f72-4101-88f3-2182fce4ebe9",
       "warningNumber": "undefined",
-      "status": "active",
+      "status": "inactive",
       "publishedAt": "2026-10-27T00:21:50.000Z",
       "updatedAt": "2026-10-27T00:21:50.000Z",
       "titleIs": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
@@ -458,840 +1583,6 @@
       "fetchedAt": "2026-10-27T15:30:52.399Z"
     },
     {
-      "id": "dk-authority-dk-dc2333e6-8945-4027-b306-1ba8364d8555",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-dc2333e6-8945-4027-b306-1ba8364d8555",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-10-27T00:21:50.000Z",
-      "updatedAt": "2026-10-27T00:21:51.000Z",
-      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "bodyIs": "27 October 2026, hours 09:00 - 17:00.\n28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "bodyEn": "27 October 2026, hours 09:00 - 17:00.\n28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.180683333333334,
-            "longitude": 9.3492
-          },
-          {
-            "latitude": 57.201116666666664,
-            "longitude": 9.348616666666667
-          },
-          {
-            "latitude": 57.255833333333335,
-            "longitude": 9.469716666666667
-          },
-          {
-            "latitude": 57.25043333333333,
-            "longitude": 9.501283333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-47c73183-7f87-41d8-a9a9-1a3a96235a04",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-47c73183-7f87-41d8-a9a9-1a3a96235a04",
-      "warningNumber": "NW-422-26",
-      "status": "active",
-      "publishedAt": "2026-10-26T16:29:41.000Z",
-      "updatedAt": "2026-10-27T13:51:47.000Z",
-      "titleIs": "NW-422-26 · Denmark. The Liim Fiord. Thyboroen Canal. Light buoy off station.",
-      "titleEn": "NW-422-26 · Denmark. The Liim Fiord. Thyboroen Canal. Light buoy off station.",
-      "bodyIs": "Thyboroen Canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.5'N - 008° 13.9'E\nis off station.",
-      "bodyEn": "Thyboroen Canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.5'N - 008° 13.9'E\nis off station.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.708473550019534,
-            "longitude": 8.230953896654645
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-c6c38d98-f2dd-4c2c-9132-552d437c4cb6",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-c6c38d98-f2dd-4c2c-9132-552d437c4cb6",
-      "warningNumber": "NW-421-26",
-      "status": "active",
-      "publishedAt": "2026-10-26T16:26:50.000Z",
-      "updatedAt": "2026-10-27T13:52:18.000Z",
-      "titleIs": "NW-421-26 · Denmark. The Liim Fiord. Thyboroen canal. Light buoy off station.",
-      "titleEn": "NW-421-26 · Denmark. The Liim Fiord. Thyboroen canal. Light buoy off station.",
-      "bodyIs": "Thyboroen canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.7'N - 008° 13.6'E\nis off station.",
-      "bodyEn": "Thyboroen canal\nLight buoy off station\nThe starboard hand light buoy\nin pos.\n56° 42.7'N - 008° 13.6'E\nis off station.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.71204219201957,
-            "longitude": 8.225839304169963
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-3ce1828d-e59d-4ebe-a0ec-f7d65ca62c68",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-3ce1828d-e59d-4ebe-a0ec-f7d65ca62c68",
-      "warningNumber": "NW-420-26",
-      "status": "active",
-      "publishedAt": "2026-10-26T14:53:09.000Z",
-      "updatedAt": "2026-10-27T12:51:32.000Z",
-      "titleIs": "NW-420-26 · Denmark. The North Sea. Esbjerg. Light buoy off station.",
-      "titleEn": "NW-420-26 · Denmark. The North Sea. Esbjerg. Light buoy off station.",
-      "bodyIs": "Esbjerg\nLight buoy off station\nThe starboard hand light buoy\nNo 15A\nin pos.\n55° 29.0'N - 008° 22.6'E\nis off station.",
-      "bodyEn": "Esbjerg\nLight buoy off station\nThe starboard hand light buoy\nNo 15A\nin pos.\n55° 29.0'N - 008° 22.6'E\nis off station.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.4840109296085,
-            "longitude": 8.376172277703187
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-a2c25855-f282-4bd8-a440-553761d5d341",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-a2c25855-f282-4bd8-a440-553761d5d341",
-      "warningNumber": "Local Warning-262-26",
-      "status": "active",
-      "publishedAt": "2026-10-25T13:16:55.000Z",
-      "updatedAt": "2026-10-27T12:43:32.000Z",
-      "titleIs": "Local Warning-262-26 · Denmark. The Sound. Gilleleje. Reduced depth.",
-      "titleEn": "Local Warning-262-26 · Denmark. The Sound. Gilleleje. Reduced depth.",
-      "bodyIs": "Gilleleje\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n56° 07.7'N - 012° 18.7'E.\nMariners are advised to keep well clear.",
-      "bodyEn": "Gilleleje\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n56° 07.7'N - 012° 18.7'E.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.12778111155069,
-            "longitude": 12.310986014108275
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-ea4c1ed6-45b3-41cb-86da-c36a175d0e99",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-ea4c1ed6-45b3-41cb-86da-c36a175d0e99",
-      "warningNumber": "NW-415-26",
-      "status": "active",
-      "publishedAt": "2026-10-22T10:23:44.000Z",
-      "updatedAt": "2026-10-22T10:23:44.000Z",
-      "titleIs": "NW-415-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
-      "titleEn": "NW-415-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
-      "bodyIs": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy in pos. 54° 33.9'N - 011° 55.6'E is missing.",
-      "bodyEn": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy in pos. 54° 33.9'N - 011° 55.6'E is missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.5652062140293,
-            "longitude": 11.927443504333473
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
-      "warningNumber": "NW-414-26",
-      "status": "active",
-      "publishedAt": "2026-10-21T11:43:03.000Z",
-      "updatedAt": "2026-10-21T11:43:03.000Z",
-      "titleIs": "NW-414-26 · Denmark. The Great Belt. Nakskov Fjord. Enehøje Gravede Rende. Light buoy unlit.",
-      "titleEn": "NW-414-26 · Denmark. The Great Belt. Nakskov Fjord. Enehøje Gravede Rende. Light buoy unlit.",
-      "bodyIs": "Nakskov Fjord. Enehøje Gravede Rende\nLight buoy unlit\nThe starboard hand light buoy\nEnehøje Gravede Rende stb 1\nin pos.\n54° 51.8'N - 010° 56.3'E\nis unlit.",
-      "bodyEn": "Nakskov Fjord. Enehøje Gravede Rende\nLight buoy unlit\nThe starboard hand light buoy\nEnehøje Gravede Rende stb 1\nin pos.\n54° 51.8'N - 010° 56.3'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.86277709413716,
-            "longitude": 10.938699175571116
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
-      "warningNumber": "NW-408-26",
-      "status": "active",
-      "publishedAt": "2026-10-15T14:17:06.000Z",
-      "updatedAt": "2026-10-16T08:53:18.000Z",
-      "titleIs": "NW-408-26 · Denmark. Kattegat. Randers Fjord. Kare Holm. Light buoy unlit.",
-      "titleEn": "NW-408-26 · Denmark. Kattegat. Randers Fjord. Kare Holm. Light buoy unlit.",
-      "bodyIs": "Randers Fjord. Kare Holm\nLight buoy unlit\nThe port hand light buoy\nin pos.\n56° 32.9'N - 010° 13.9'E\nis unlit.",
-      "bodyEn": "Randers Fjord. Kare Holm\nLight buoy unlit\nThe port hand light buoy\nin pos.\n56° 32.9'N - 010° 13.9'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.548064571336596,
-            "longitude": 10.231838138314798
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-6178960a-ceab-4871-a638-f05a076d05f8",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-6178960a-ceab-4871-a638-f05a076d05f8",
-      "warningNumber": "NW-401-26",
-      "status": "active",
-      "publishedAt": "2026-10-09T10:12:42.000Z",
-      "updatedAt": "2026-10-21T11:15:55.000Z",
-      "titleIs": "NW-401-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
-      "titleEn": "NW-401-26 · Denmark. The Baltic Sea. Gedser. Rødsand Rende. Light buoy missing.",
-      "bodyIs": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n54° 31.4'N - 011° 56.4'E\nis missing.",
-      "bodyEn": "Gedser. Rødsand Rende\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n54° 31.4'N - 011° 56.4'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.52378272276465,
-            "longitude": 11.939674377441381
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
-      "warningNumber": "Local Warning-261-26",
-      "status": "active",
-      "publishedAt": "2026-10-09T05:39:28.000Z",
-      "updatedAt": "2026-10-09T11:07:19.000Z",
-      "titleIs": "Local Warning-261-26 · Denmark. The Waters South of Zealand. Skælskør. Buoy missing.",
-      "titleEn": "Local Warning-261-26 · Denmark. The Waters South of Zealand. Skælskør. Buoy missing.",
-      "bodyIs": "Skælskør\nBuoy missing\nThe starboard hand buoy\nin pos.\n55° 15.0'N - 011° 14.2'E\nis missing.",
-      "bodyEn": "Skælskør\nBuoy missing\nThe starboard hand buoy\nin pos.\n55° 15.0'N - 011° 14.2'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.25013352868913,
-            "longitude": 11.236099007128843
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-2011c6c5-1dd2-4db8-bf51-27669338ea24",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-2011c6c5-1dd2-4db8-bf51-27669338ea24",
-      "warningNumber": "NW-398-26",
-      "status": "active",
-      "publishedAt": "2026-10-05T13:58:45.000Z",
-      "updatedAt": "2026-10-06T09:39:17.000Z",
-      "titleIs": "NW-398-26 · Denmark. The Little Belt. Fænø S. Unmarked Wreck.",
-      "titleEn": "NW-398-26 · Denmark. The Little Belt. Fænø S. Unmarked Wreck.",
-      "bodyIs": "Fænø S.\nUnmarked Wreck\nA vessel\nhas sunk\nin pos.\n55° 28.2'N - 009° 41.6'E.\nThe depth above the wreck is unknown.\nThe wreck is unmarked.\nMariners are advised to keep well clear.",
-      "bodyEn": "Fænø S.\nUnmarked Wreck\nA vessel\nhas sunk\nin pos.\n55° 28.2'N - 009° 41.6'E.\nThe depth above the wreck is unknown.\nThe wreck is unmarked.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.47,
-            "longitude": 9.693333333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
-      "warningNumber": "NW-390-26",
-      "status": "active",
-      "publishedAt": "2026-10-02T13:00:27.000Z",
-      "updatedAt": "2026-10-02T13:10:48.000Z",
-      "titleIs": "NW-390-26 · Denmark. The North Sea. Light buoy missing.",
-      "titleEn": "NW-390-26 · Denmark. The North Sea. Light buoy missing.",
-      "bodyIs": "Light buoy missing\nThe special light buoy\nin pos.\n56° 29.3'N - 006° 29.9'E\nis missing.",
-      "bodyEn": "Light buoy missing\nThe special light buoy\nin pos.\n56° 29.3'N - 006° 29.9'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.48866504581321,
-            "longitude": 6.497750279108684
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-66230232-39be-4e02-9e12-12250634495a",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-66230232-39be-4e02-9e12-12250634495a",
-      "warningNumber": "Local Warning-259-26",
-      "status": "active",
-      "publishedAt": "2026-10-01T09:44:07.000Z",
-      "updatedAt": "2026-10-06T07:59:42.000Z",
-      "titleIs": "Local Warning-259-26 · Denmark. The Liim Fiord. Klitgård Hage. Reduced depth.",
-      "titleEn": "Local Warning-259-26 · Denmark. The Liim Fiord. Klitgård Hage. Reduced depth.",
-      "bodyIs": "Klitgård Hage\nReduced depth\nWater depths down to 3.5m have been observed in the area around pos. 57° 01.9'N - 009° 39.8'E.\nMariners are advised to keep well clear.",
-      "bodyEn": "Klitgård Hage\nReduced depth\nWater depths down to 3.5m have been observed in the area around pos. 57° 01.9'N - 009° 39.8'E.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 57.03223833741015,
-            "longitude": 9.662672823277827
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-bcb88c9e-c5c3-414c-9955-c3bbd345bffc",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-bcb88c9e-c5c3-414c-9955-c3bbd345bffc",
-      "warningNumber": "Local Warning-258-26",
-      "status": "active",
-      "publishedAt": "2026-10-01T09:26:36.000Z",
-      "updatedAt": "2026-10-15T08:55:10.000Z",
-      "titleIs": "Local Warning-258-26 · Denmark. Waters South of Funen. Marstal. Sønderrenden. Buoy missing.",
-      "titleEn": "Local Warning-258-26 · Denmark. Waters South of Funen. Marstal. Sønderrenden. Buoy missing.",
-      "bodyIs": "Marstal. Sønderrenden\nBuoy missing\nThe port hand buoy\nin pos.\n54° 50.9'N - 010° 32.4'E\nis missing.",
-      "bodyEn": "Marstal. Sønderrenden\nBuoy missing\nThe port hand buoy\nin pos.\n54° 50.9'N - 010° 32.4'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.84784159420997,
-            "longitude": 10.540767326482248
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-56be80dd-b246-4b90-84de-1b1730052dfc",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-56be80dd-b246-4b90-84de-1b1730052dfc",
-      "warningNumber": "NW-385-26",
-      "status": "active",
-      "publishedAt": "2026-09-29T13:52:36.000Z",
-      "updatedAt": "2026-09-29T13:52:36.000Z",
-      "titleIs": "NW-385-26 · Denmark. The North Sea. Rømø Dyb. Light unlit.",
-      "titleEn": "NW-385-26 · Denmark. The North Sea. Rømø Dyb. Light unlit.",
-      "bodyIs": "Rømø Dyb\nLight unlit\nThe light post\nin pos.\n55° 03.9'N - 008° 32.5'E\nis unlit.",
-      "bodyEn": "Rømø Dyb\nLight unlit\nThe light post\nin pos.\n55° 03.9'N - 008° 32.5'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.064257167477905,
-            "longitude": 8.54183880461832
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-21ebf93f-95cf-43d1-a8d6-fddac60f9f8c",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-21ebf93f-95cf-43d1-a8d6-fddac60f9f8c",
-      "warningNumber": "NW-383-26",
-      "status": "active",
-      "publishedAt": "2026-09-29T08:25:23.000Z",
-      "updatedAt": "2026-09-29T08:25:23.000Z",
-      "titleIs": "NW-383-26 · Denmark. Kattegat. Als Odde. Light buoy missing.",
-      "titleEn": "NW-383-26 · Denmark. Kattegat. Als Odde. Light buoy missing.",
-      "bodyIs": "Als Odde\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 43.0'N - 010° 25.6'E\nis missing.",
-      "bodyEn": "Als Odde\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 43.0'N - 010° 25.6'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.717422107415814,
-            "longitude": 10.426187309519452
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
-      "warningNumber": "NW-372-26",
-      "status": "active",
-      "publishedAt": "2026-09-24T10:03:04.000Z",
-      "updatedAt": "2026-10-21T09:57:48.000Z",
-      "titleIs": "NW-372-26 · Denmark. The Little Belt. Årø Sund. Light unlit.",
-      "titleEn": "NW-372-26 · Denmark. The Little Belt. Årø Sund. Light unlit.",
-      "bodyIs": "Årø Sund\nLight unlit\nThe sector light\nÅrøsund Havn\nin pos.\n55° 15.7'N - 009° 42.7'E\nis unlit.",
-      "bodyEn": "Årø Sund\nLight unlit\nThe sector light\nÅrøsund Havn\nin pos.\n55° 15.7'N - 009° 42.7'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.26225619309167,
-            "longitude": 9.71222263493696
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
-      "warningNumber": "NW-367-26",
-      "status": "active",
-      "publishedAt": "2026-09-23T08:25:51.000Z",
-      "updatedAt": "2026-10-27T12:50:22.000Z",
-      "titleIs": "NW-367-26 · Denmark. The Liim Fiord. Oddesundbroen. Light unlit.",
-      "titleEn": "NW-367-26 · Denmark. The Liim Fiord. Oddesundbroen. Light unlit.",
-      "bodyIs": "Oddesundbroen\nLight unlit\nThe light\nin pos.\n56° 34.7'N - 008° 33.5'E\nis unlit.",
-      "bodyEn": "Oddesundbroen\nLight unlit\nThe light\nin pos.\n56° 34.7'N - 008° 33.5'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.57858550277194,
-            "longitude": 8.557838143189747
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-05c63fc3-0c3d-47bb-8583-21ea3e008e80",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-05c63fc3-0c3d-47bb-8583-21ea3e008e80",
-      "warningNumber": "Local Warning-254-26",
-      "status": "active",
-      "publishedAt": "2026-09-23T08:25:21.000Z",
-      "updatedAt": "2026-10-13T11:43:52.000Z",
-      "titleIs": "Local Warning-254-26 · Denmark. Waters South of Funen. Siø. Reduced depth.",
-      "titleEn": "Local Warning-254-26 · Denmark. Waters South of Funen. Siø. Reduced depth.",
-      "bodyIs": "Siø\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n54° 58.4'N - 010° 42.3'E.\nMariners are advised to keep well clear.",
-      "bodyEn": "Siø\nReduced depth\nWater depths down to 2m\nhave been observed\nin pos.\n54° 58.4'N - 010° 42.3'E.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.97291666666667,
-            "longitude": 10.704616666666666
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-969caee2-46db-443a-8287-20d63bb4fb23",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-969caee2-46db-443a-8287-20d63bb4fb23",
-      "warningNumber": "Local Warning-253-26",
-      "status": "active",
-      "publishedAt": "2026-09-22T12:16:56.000Z",
-      "updatedAt": "2026-10-02T07:54:42.000Z",
-      "titleIs": "Local Warning-253-26 · Denmark. The Sound. Hornbæk Havn. Reduced depth.",
-      "titleEn": "Local Warning-253-26 · Denmark. The Sound. Hornbæk Havn. Reduced depth.",
-      "bodyIs": "Hornbæk Havn\nReduced depth\nWater depths down to 1.5m have been observed in the western part of the entrance to Hornbæk Havn in pos. 56° 05.8'N - 012° 27.5'E.\nMariners are advised to keep well clear.",
-      "bodyEn": "Hornbæk Havn\nReduced depth\nWater depths down to 1.5m have been observed in the western part of the entrance to Hornbæk Havn in pos. 56° 05.8'N - 012° 27.5'E.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.09618901007099,
-            "longitude": 12.458801895687921
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-1364b816-53fa-4b38-b456-ac11921f3153",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-1364b816-53fa-4b38-b456-ac11921f3153",
-      "warningNumber": "Local Warning-251-26",
-      "status": "active",
-      "publishedAt": "2026-09-22T09:50:17.000Z",
-      "updatedAt": "2026-10-08T11:13:59.000Z",
-      "titleIs": "Local Warning-251-26 · Denmark. The Liim Fiord. Gjøl Fiskeri- og Lystbådehavn. Reduced depth.",
-      "titleEn": "Local Warning-251-26 · Denmark. The Liim Fiord. Gjøl Fiskeri- og Lystbådehavn. Reduced depth.",
-      "bodyIs": "Gjøl Fiskeri- og Lystbådehavn\nReduced depth\nWater depths down to 1.5m have been observed in pos. 57° 03.7'N - 009° 42.1'E in the entrance to Gjøl Fiskeri- og Lystbådehavn.\nMariners are advised to keep well clear.",
-      "bodyEn": "Gjøl Fiskeri- og Lystbådehavn\nReduced depth\nWater depths down to 1.5m have been observed in pos. 57° 03.7'N - 009° 42.1'E in the entrance to Gjøl Fiskeri- og Lystbådehavn.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 57.062083333333334,
-            "longitude": 9.701
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
-      "warningNumber": "Local Warning-249-26",
-      "status": "active",
-      "publishedAt": "2026-09-21T19:17:43.000Z",
-      "updatedAt": "2026-10-27T12:49:12.000Z",
-      "titleIs": "Local Warning-249-26 · Denmark. The Waters South of Zealand. Grønsund. Yellow buoy.",
-      "titleEn": "Local Warning-249-26 · Denmark. The Waters South of Zealand. Grønsund. Yellow buoy.",
-      "bodyIs": "Grønsund\nYellow buoy\nA yellow buoy has been observed in pos. 54° 55.6'N - 011° 59.7'E.",
-      "bodyEn": "Grønsund\nYellow buoy\nA yellow buoy has been observed in pos. 54° 55.6'N - 011° 59.7'E.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.92695000000003,
-            "longitude": 11.995616666666667
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
-      "warningNumber": "Local Warning-246-26",
-      "status": "active",
-      "publishedAt": "2026-09-21T09:25:54.000Z",
-      "updatedAt": "2026-10-15T08:54:52.000Z",
-      "titleIs": "Local Warning-246-26 · Denmark. The Sound. Ishøj S. Light unlit.",
-      "titleEn": "Local Warning-246-26 · Denmark. The Sound. Ishøj S. Light unlit.",
-      "bodyIs": "Ishøj S\nLight unlit\nThe mole head light\nin pos.\n55° 36.3'N - 012° 24.0'E\nis unlit.",
-      "bodyEn": "Ishøj S\nLight unlit\nThe mole head light\nin pos.\n55° 36.3'N - 012° 24.0'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.604481378519694,
-            "longitude": 12.400770941034727
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
-      "warningNumber": "Local Warning-245-26",
-      "status": "active",
-      "publishedAt": "2026-09-21T09:24:55.000Z",
-      "updatedAt": "2026-10-15T08:57:56.000Z",
-      "titleIs": "Local Warning-245-26 · Denmark. The Sound. Vallensbæk Lystbådehavn. Light unlit.",
-      "titleEn": "Local Warning-245-26 · Denmark. The Sound. Vallensbæk Lystbådehavn. Light unlit.",
-      "bodyIs": "Vallensbæk Lystbådehavn\nLight unlit\nThe red mole head light in pos. 55° 36.6'N - 012° 24.1'E is unlit.",
-      "bodyEn": "Vallensbæk Lystbådehavn\nLight unlit\nThe red mole head light in pos. 55° 36.6'N - 012° 24.1'E is unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.609330926437366,
-            "longitude": 12.400940255728017
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
-      "warningNumber": "Local Warning-244-26",
-      "status": "active",
-      "publishedAt": "2026-09-18T12:09:19.000Z",
-      "updatedAt": "2026-10-21T09:56:18.000Z",
-      "titleIs": "Local Warning-244-26 · Denmark. Næstved Havn. Reduced depth.",
-      "titleEn": "Local Warning-244-26 · Denmark. Næstved Havn. Reduced depth.",
-      "bodyIs": "Næstved Havn\nReduced depth\nWater depths down to 5.25m have been observed around pos. 55° 13.6'N - 011° 45.3'E.\nMariners are advised to keep well clear.",
-      "bodyEn": "Næstved Havn\nReduced depth\nWater depths down to 5.25m have been observed around pos. 55° 13.6'N - 011° 45.3'E.\nMariners are advised to keep well clear.",
-      "category": "other",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.22701666666666,
-            "longitude": 11.755516666666667
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-0214af79-d165-4811-b52d-dd147c51483c",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-0214af79-d165-4811-b52d-dd147c51483c",
-      "warningNumber": "Local Warning-237-26",
-      "status": "active",
-      "publishedAt": "2026-09-08T10:48:48.000Z",
-      "updatedAt": "2026-10-02T12:14:46.000Z",
-      "titleIs": "Local Warning-237-26 · Denmark. Waters South of Funen. Langelandsbroen. Light unlit.",
-      "titleEn": "Local Warning-237-26 · Denmark. Waters South of Funen. Langelandsbroen. Light unlit.",
-      "bodyIs": "Langelandsbroen\nLight unlit\nThe green sector light in pos. 54° 56.9'N - 010° 42.4'E is unlit.",
-      "bodyEn": "Langelandsbroen\nLight unlit\nThe green sector light in pos. 54° 56.9'N - 010° 42.4'E is unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.94795203841312,
-            "longitude": 10.7072286743475
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-02aa8fc8-f11d-4f0e-b3ea-813ea4714a49",
-      "warningNumber": "Local Warning-231-26",
-      "status": "active",
-      "publishedAt": "2026-09-03T08:21:15.000Z",
-      "updatedAt": "2026-10-06T06:55:04.000Z",
-      "titleIs": "Local Warning-231-26 · Denmark. The Great Belt. Buoy missing.",
-      "titleEn": "Local Warning-231-26 · Denmark. The Great Belt. Buoy missing.",
-      "bodyIs": "Buoy missing\nThe special buoy\nin pos.\n55° 13.8'N - 011° 05.4'E\nis missing.",
-      "bodyEn": "Buoy missing\nThe special buoy\nin pos.\n55° 13.8'N - 011° 05.4'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.22950096903827,
-            "longitude": 11.089800496385365
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-719a7767-c91d-4542-94dc-39f514f67529",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-719a7767-c91d-4542-94dc-39f514f67529",
-      "warningNumber": "Local Warning-224-26",
-      "status": "active",
-      "publishedAt": "2026-08-27T09:43:31.000Z",
-      "updatedAt": "2026-10-14T08:49:21.000Z",
-      "titleIs": "Local Warning-224-26 · Denmark. The Sound. Kalvebodbroerne. Light unlit.",
-      "titleEn": "Local Warning-224-26 · Denmark. The Sound. Kalvebodbroerne. Light unlit.",
-      "bodyIs": "Kalvebodbroerne\nLight unlit\nThe green sector light in pos. 55° 36.8'N - 012° 30.7'E is unlit.",
-      "bodyEn": "Kalvebodbroerne\nLight unlit\nThe green sector light in pos. 55° 36.8'N - 012° 30.7'E is unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.613818206741655,
-            "longitude": 12.511879300594332
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
-      "warningNumber": "Local Warning-156-26",
-      "status": "active",
-      "publishedAt": "2026-06-03T13:21:36.000Z",
-      "updatedAt": "2026-06-03T13:21:51.000Z",
-      "titleIs": "Local Warning-156-26 · Denmark. The Liim Fiord. Lysen Bredning. Buoy observed.",
-      "titleEn": "Local Warning-156-26 · Denmark. The Liim Fiord. Lysen Bredning. Buoy observed.",
-      "bodyIs": "Lysen Bredning\nBuoy observed\nA yellow buoy has been observed in pos. 56° 42.1'N - 008° 49.1'E.",
-      "bodyEn": "Lysen Bredning\nBuoy observed\nA yellow buoy has been observed in pos. 56° 42.1'N - 008° 49.1'E.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.70088333333334,
-            "longitude": 8.818483333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T15:30:52.399Z"
-    },
-    {
-      "id": "dk-authority-dk-d4f46b8c-ec4e-43fc-9343-e5c053e49a80",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-d4f46b8c-ec4e-43fc-9343-e5c053e49a80",
-      "warningNumber": "NW-423-26",
-      "status": "inactive",
-      "publishedAt": "2026-10-27T07:00:30.000Z",
-      "updatedAt": "2026-10-27T07:01:37.000Z",
-      "titleIs": "NW-423-26 · Denmark. The Great Belt. Storebæltsbroen. Light unlit.",
-      "titleEn": "NW-423-26 · Denmark. The Great Belt. Storebæltsbroen. Light unlit.",
-      "bodyIs": "Storebæltsbroen\nLight unlit\nThe light\nin pos.\n55° 20.6'N - 011° 02.5'E\nis unlit.",
-      "bodyEn": "Storebæltsbroen\nLight unlit\nThe light\nin pos.\n55° 20.6'N - 011° 02.5'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.342750000000024,
-            "longitude": 11.041066666666667
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-10-27T14:33:34.938Z"
-    },
-    {
       "id": "dk-authority-dk-847a0710-44d6-47ae-b88b-986154ad4ccd",
       "authority": "Danish Maritime Authority",
       "country": "DK",
@@ -1337,6 +1628,57 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-10-27T09:32:09.118Z"
+    },
+    {
+      "id": "dk-authority-dk-dc2333e6-8945-4027-b306-1ba8364d8555",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-dc2333e6-8945-4027-b306-1ba8364d8555",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-10-27T00:21:50.000Z",
+      "updatedAt": "2026-10-27T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "27 October 2026, hours 09:00 - 17:00.\n28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "27 October 2026, hours 09:00 - 17:00.\n28 October 2026, hours 09:00 - 17:00.\n29 October 2026, hours 09:00 - 17:00.\n30 October 2026, hours 09:00 - 13:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-10-27T15:30:52.399Z"
     },
     {
       "id": "dk-authority-dk-3cb17631-aeac-4f55-bb3a-e9ea223698c1",
@@ -24963,7 +25305,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20174",
@@ -24990,7 +25332,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20025",
@@ -25012,7 +25354,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19599",
@@ -25039,7 +25381,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20163",
@@ -25061,7 +25403,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20164",
@@ -25083,7 +25425,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20047",
@@ -25110,7 +25452,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20046",
@@ -25149,7 +25491,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-20030",
@@ -25176,7 +25518,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19714",
@@ -25203,7 +25545,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19628",
@@ -25230,7 +25572,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19622",
@@ -25347,7 +25689,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19574",
@@ -25369,7 +25711,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19569",
@@ -25391,7 +25733,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19561",
@@ -25418,7 +25760,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19560",
@@ -25445,7 +25787,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19541",
@@ -25467,7 +25809,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19494",
@@ -25489,7 +25831,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19318",
@@ -25516,7 +25858,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19212",
@@ -25538,7 +25880,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19156",
@@ -25560,7 +25902,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19154",
@@ -25587,7 +25929,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19105",
@@ -25614,7 +25956,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19093",
@@ -25641,7 +25983,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19063",
@@ -25668,7 +26010,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-19019",
@@ -25690,7 +26032,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18938",
@@ -25717,7 +26059,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18883",
@@ -25744,7 +26086,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18706",
@@ -25771,7 +26113,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18705",
@@ -25793,7 +26135,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18704",
@@ -25815,7 +26157,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18703",
@@ -25842,7 +26184,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18702",
@@ -25869,7 +26211,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18701",
@@ -25904,7 +26246,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18700",
@@ -25931,7 +26273,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18699",
@@ -25958,7 +26300,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18698",
@@ -25985,7 +26327,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18697",
@@ -26012,7 +26354,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18696",
@@ -26039,7 +26381,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18694",
@@ -26066,7 +26408,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18695",
@@ -26093,7 +26435,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18693",
@@ -26120,7 +26462,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18692",
@@ -26147,7 +26489,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18691",
@@ -26169,7 +26511,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18690",
@@ -26196,7 +26538,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18689",
@@ -26223,7 +26565,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18688",
@@ -26245,7 +26587,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18687",
@@ -26272,7 +26614,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18686",
@@ -26294,7 +26636,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18685",
@@ -26321,7 +26663,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18684",
@@ -26343,7 +26685,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18683",
@@ -26370,7 +26712,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18682",
@@ -26397,7 +26739,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18681",
@@ -26428,7 +26770,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18680",
@@ -26455,7 +26797,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     },
     {
       "id": "is-lhg-warning-18679",
@@ -26477,7 +26819,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-10-27T15:30:52.967Z"
+      "fetchedAt": "2026-10-28T00:45:50.784Z"
     }
   ]
 }
