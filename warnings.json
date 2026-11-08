@@ -1,8 +1,939 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T00:41:24.866Z",
-  "version": "d649916d11df6b97a0adf6889604a4ad28136e40383347360ebdf13e58563141",
+  "generatedAt": "2026-11-08T06:26:14.558Z",
+  "version": "49489f3bdb125280c56e2d25982a33fda2017fe6b032dd497a2ab35132583d61",
   "records": [
+    {
+      "id": "dk-authority-dk-5c704745-f1de-461f-8e9f-867c43ff0cd5",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-5c704745-f1de-461f-8e9f-867c43ff0cd5",
+      "warningNumber": "NW-446-26",
+      "status": "active",
+      "publishedAt": "2026-11-08T05:37:56.000Z",
+      "updatedAt": "2026-11-08T05:37:56.000Z",
+      "titleIs": "NW-446-26 · Denmark. Kattegat. South of Mosel ground. Blast.",
+      "titleEn": "NW-446-26 · Denmark. Kattegat. South of Mosel ground. Blast.",
+      "bodyIs": "South of Mosel ground\nBlast\nBetween 08:00 UTC and 12:00UTC blasting of a mine will be carried out in pos. 56° 02,22'N - 010° 55,1'E.\nGuard vessels will be in the area.\nMariners are advised to keep a min. distance of 2000m from the position.",
+      "bodyEn": "South of Mosel ground\nBlast\nBetween 08:00 UTC and 12:00UTC blasting of a mine will be carried out in pos. 56° 02,22'N - 010° 55,1'E.\nGuard vessels will be in the area.\nMariners are advised to keep a min. distance of 2000m from the position.",
+      "category": "other",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.097248393000086,
+            "longitude": 12.256877822000094
+          },
+          {
+            "latitude": 56.094143185000064,
+            "longitude": 12.20952339200005
+          },
+          {
+            "latitude": 56.056298095000045,
+            "longitude": 12.102996475000056
+          },
+          {
+            "latitude": 55.994624617000085,
+            "longitude": 11.954419458000075
+          },
+          {
+            "latitude": 55.97219789700006,
+            "longitude": 11.867515920000073
+          },
+          {
+            "latitude": 55.956779528000055,
+            "longitude": 11.871720930000038
+          },
+          {
+            "latitude": 55.979206247000036,
+            "longitude": 11.99086287700004
+          },
+          {
+            "latitude": 55.97640290700008,
+            "longitude": 12.031511306000084
+          },
+          {
+            "latitude": 55.89090103900011,
+            "longitude": 12.077766415000042
+          },
+          {
+            "latitude": 55.84324426000006,
+            "longitude": 12.074963075000085
+          },
+          {
+            "latitude": 55.74092235300006,
+            "longitude": 12.129628204000085
+          },
+          {
+            "latitude": 55.66383050500008,
+            "longitude": 12.114209834000064
+          },
+          {
+            "latitude": 55.63579710500005,
+            "longitude": 12.084774765000077
+          },
+          {
+            "latitude": 55.659625495000085,
+            "longitude": 12.00207623700004
+          },
+          {
+            "latitude": 55.62598541600005,
+            "longitude": 11.927787729000043
+          },
+          {
+            "latitude": 55.64420712500004,
+            "longitude": 11.917976039000052
+          },
+          {
+            "latitude": 55.68485555400005,
+            "longitude": 11.927787729000043
+          },
+          {
+            "latitude": 55.752135713000115,
+            "longitude": 11.982452858000045
+          },
+          {
+            "latitude": 55.73251233300002,
+            "longitude": 12.021699617000081
+          },
+          {
+            "latitude": 55.74512736300005,
+            "longitude": 12.046929676000046
+          },
+          {
+            "latitude": 55.836235911000045,
+            "longitude": 12.021699617000081
+          },
+          {
+            "latitude": 55.85866263000008,
+            "longitude": 11.99086287700004
+          },
+          {
+            "latitude": 55.88809769900007,
+            "longitude": 11.99086287700004
+          },
+          {
+            "latitude": 55.89931105900004,
+            "longitude": 12.004879577000054
+          },
+          {
+            "latitude": 55.90071272900008,
+            "longitude": 11.976846178000073
+          },
+          {
+            "latitude": 55.91472942900006,
+            "longitude": 11.962829478000062
+          },
+          {
+            "latitude": 55.92454111900008,
+            "longitude": 11.913771029000088
+          },
+          {
+            "latitude": 55.90772107900003,
+            "longitude": 11.931992739000066
+          },
+          {
+            "latitude": 55.85165428000005,
+            "longitude": 11.97404283800006
+          },
+          {
+            "latitude": 55.80820251100002,
+            "longitude": 11.950214448000054
+          },
+          {
+            "latitude": 55.79979249100009,
+            "longitude": 11.891344310000079
+          },
+          {
+            "latitude": 55.75774239200007,
+            "longitude": 11.86891759000008
+          },
+          {
+            "latitude": 55.736717343000066,
+            "longitude": 11.889942640000072
+          },
+          {
+            "latitude": 55.71288895300003,
+            "longitude": 11.863310910000052
+          },
+          {
+            "latitude": 55.672240524000074,
+            "longitude": 11.850695881000094
+          },
+          {
+            "latitude": 55.64701046500005,
+            "longitude": 11.810047452000049
+          },
+          {
+            "latitude": 55.64701046500005,
+            "longitude": 11.766595683000048
+          },
+          {
+            "latitude": 55.661027165000064,
+            "longitude": 11.752578983000092
+          },
+          {
+            "latitude": 55.68345388400007,
+            "longitude": 11.779210712000065
+          },
+          {
+            "latitude": 55.70588060400007,
+            "longitude": 11.779210712000065
+          },
+          {
+            "latitude": 55.700273924000044,
+            "longitude": 11.702118864000056
+          },
+          {
+            "latitude": 55.710085614000036,
+            "longitude": 11.641847056000074
+          },
+          {
+            "latitude": 55.73251233300002,
+            "longitude": 11.63483870600004
+          },
+          {
+            "latitude": 55.74092235300006,
+            "longitude": 11.650257075000072
+          },
+          {
+            "latitude": 55.75073404300008,
+            "longitude": 11.730152264000083
+          },
+          {
+            "latitude": 55.77456243200004,
+            "longitude": 11.72034057400009
+          },
+          {
+            "latitude": 55.760545732000054,
+            "longitude": 11.690905504000057
+          },
+          {
+            "latitude": 55.754939053000044,
+            "longitude": 11.61101031600009
+          },
+          {
+            "latitude": 55.780169112000095,
+            "longitude": 11.591386937000038
+          },
+          {
+            "latitude": 55.825022551000075,
+            "longitude": 11.644650396000088
+          },
+          {
+            "latitude": 55.82221921100006,
+            "longitude": 11.707725544000082
+          },
+          {
+            "latitude": 55.834834241000095,
+            "longitude": 11.71613556400007
+          },
+          {
+            "latitude": 55.868474320000075,
+            "longitude": 11.646052066000038
+          },
+          {
+            "latitude": 55.91753276900005,
+            "longitude": 11.658667095000055
+          },
+          {
+            "latitude": 55.923139449000075,
+            "longitude": 11.692307174000064
+          },
+          {
+            "latitude": 55.91472942900006,
+            "longitude": 11.734357273000056
+          },
+          {
+            "latitude": 55.956779528000055,
+            "longitude": 11.751177313000085
+          },
+          {
+            "latitude": 55.934352808000085,
+            "longitude": 11.703520534000063
+          },
+          {
+            "latitude": 55.923139449000075,
+            "longitude": 11.637642046000053
+          },
+          {
+            "latitude": 55.923139449000075,
+            "longitude": 11.549336838000045
+          },
+          {
+            "latitude": 55.87828601000004,
+            "longitude": 11.549336838000045
+          },
+          {
+            "latitude": 55.82642422100008,
+            "longitude": 11.491868369000088
+          },
+          {
+            "latitude": 55.81100585100006,
+            "longitude": 11.414776521000078
+          },
+          {
+            "latitude": 55.78437412200003,
+            "longitude": 11.425989881000076
+          },
+          {
+            "latitude": 55.71148728400004,
+            "longitude": 11.316659623000078
+          },
+          {
+            "latitude": 55.71288895300003,
+            "longitude": 11.22134606600008
+          },
+          {
+            "latitude": 55.72970899300003,
+            "longitude": 11.117622488000052
+          },
+          {
+            "latitude": 55.71336587600007,
+            "longitude": 11.067503595000062
+          },
+          {
+            "latitude": 55.73737660000006,
+            "longitude": 10.97940380700004
+          },
+          {
+            "latitude": 55.73986809400009,
+            "longitude": 10.885972777000063
+          },
+          {
+            "latitude": 55.743008718000084,
+            "longitude": 10.87181193400005
+          },
+          {
+            "latitude": 55.743304340000066,
+            "longitude": 10.86924988000004
+          },
+          {
+            "latitude": 55.74337333300008,
+            "longitude": 10.86826626800007
+          },
+          {
+            "latitude": 55.62066495300007,
+            "longitude": 10.590952677000073
+          },
+          {
+            "latitude": 55.61884764000007,
+            "longitude": 10.590860084000042
+          },
+          {
+            "latitude": 55.61140782900006,
+            "longitude": 10.594013381000082
+          },
+          {
+            "latitude": 55.61057023400008,
+            "longitude": 10.59559003000004
+          },
+          {
+            "latitude": 55.60973264000009,
+            "longitude": 10.598447705000067
+          },
+          {
+            "latitude": 55.60795891100008,
+            "longitude": 10.604212327000084
+          },
+          {
+            "latitude": 55.60943701800002,
+            "longitude": 10.609730597000068
+          },
+          {
+            "latitude": 55.60923993700001,
+            "longitude": 10.622442327000044
+          },
+          {
+            "latitude": 55.59726726100007,
+            "longitude": 10.629734326000062
+          },
+          {
+            "latitude": 55.51048770500003,
+            "longitude": 10.650693987000068
+          },
+          {
+            "latitude": 55.4749842790001,
+            "longitude": 10.619597811000064
+          },
+          {
+            "latitude": 55.47527751000007,
+            "longitude": 10.598191934000056
+          },
+          {
+            "latitude": 55.466222266000045,
+            "longitude": 10.559556228000076
+          },
+          {
+            "latitude": 55.461996486000004,
+            "longitude": 10.525749985000061
+          },
+          {
+            "latitude": 55.46260016900004,
+            "longitude": 10.497980571000085
+          },
+          {
+            "latitude": 55.44509336400006,
+            "longitude": 10.503413717000058
+          },
+          {
+            "latitude": 55.43181234000008,
+            "longitude": 10.478662717000079
+          },
+          {
+            "latitude": 55.428190243000074,
+            "longitude": 10.422520206000058
+          },
+          {
+            "latitude": 55.41732395000008,
+            "longitude": 10.388713963000043
+          },
+          {
+            "latitude": 55.396798731000075,
+            "longitude": 10.395958158000044
+          },
+          {
+            "latitude": 55.396798731000075,
+            "longitude": 10.374225573000047
+          },
+          {
+            "latitude": 55.415512902000046,
+            "longitude": 10.36517033000007
+          },
+          {
+            "latitude": 55.428190243000074,
+            "longitude": 10.374829256000055
+          },
+          {
+            "latitude": 55.43784916900006,
+            "longitude": 10.409239182000078
+          },
+          {
+            "latitude": 55.48674748500008,
+            "longitude": 10.435197548000076
+          },
+          {
+            "latitude": 55.49580272900005,
+            "longitude": 10.465985376000049
+          },
+          {
+            "latitude": 55.50244324100001,
+            "longitude": 10.488321644000052
+          },
+          {
+            "latitude": 55.51210216800007,
+            "longitude": 10.472625888000039
+          },
+          {
+            "latitude": 55.53081633800008,
+            "longitude": 10.459948547000065
+          },
+          {
+            "latitude": 55.55013419100004,
+            "longitude": 10.482284815000071
+          },
+          {
+            "latitude": 55.56341521500008,
+            "longitude": 10.442441743000074
+          },
+          {
+            "latitude": 55.59420304400004,
+            "longitude": 10.360944549000067
+          },
+          {
+            "latitude": 55.61653931200004,
+            "longitude": 10.306613087000073
+          },
+          {
+            "latitude": 55.58031833700005,
+            "longitude": 10.325327257000083
+          },
+          {
+            "latitude": 55.57548887400006,
+            "longitude": 10.298161526000056
+          },
+          {
+            "latitude": 55.578507288000054,
+            "longitude": 10.272806844000057
+          },
+          {
+            "latitude": 55.59722145900008,
+            "longitude": 10.268581063000056
+          },
+          {
+            "latitude": 55.59359936100003,
+            "longitude": 10.242622698000048
+          },
+          {
+            "latitude": 55.583940434000056,
+            "longitude": 10.198553845000047
+          },
+          {
+            "latitude": 55.57946852800006,
+            "longitude": 10.19099786600009
+          },
+          {
+            "latitude": 55.58847810900005,
+            "longitude": 10.184329622000064
+          },
+          {
+            "latitude": 55.60513244800006,
+            "longitude": 10.18278919700009
+          },
+          {
+            "latitude": 55.61537671500008,
+            "longitude": 10.181433075000086
+          },
+          {
+            "latitude": 55.61588225700007,
+            "longitude": 10.181556624000052
+          },
+          {
+            "latitude": 55.617847323000035,
+            "longitude": 10.181452841000066
+          },
+          {
+            "latitude": 55.62143223000004,
+            "longitude": 10.181121332000089
+          },
+          {
+            "latitude": 55.62393515900004,
+            "longitude": 10.181574761000094
+          },
+          {
+            "latitude": 55.62681087400006,
+            "longitude": 10.181751098000063
+          },
+          {
+            "latitude": 55.63195547600009,
+            "longitude": 10.180305333000092
+          },
+          {
+            "latitude": 55.64465625700004,
+            "longitude": 10.16383811500009
+          },
+          {
+            "latitude": 55.646526477000066,
+            "longitude": 10.162177090000055
+          },
+          {
+            "latitude": 55.69617148400005,
+            "longitude": 10.029737824000051
+          },
+          {
+            "latitude": 55.69905679700008,
+            "longitude": 10.026726120000092
+          },
+          {
+            "latitude": 55.70597850000007,
+            "longitude": 10.018058401000074
+          },
+          {
+            "latitude": 55.71922792600009,
+            "longitude": 9.979211655000086
+          },
+          {
+            "latitude": 55.748409235000054,
+            "longitude": 10.016351503000068
+          },
+          {
+            "latitude": 55.77302625000004,
+            "longitude": 10.00228463700006
+          },
+          {
+            "latitude": 55.804676698000065,
+            "longitude": 10.018109861000086
+          },
+          {
+            "latitude": 55.82050192200006,
+            "longitude": 9.91788344300005
+          },
+          {
+            "latitude": 55.83808550400002,
+            "longitude": 9.840515682000046
+          },
+          {
+            "latitude": 55.890836250000035,
+            "longitude": 9.844032398000081
+          },
+          {
+            "latitude": 55.89611132500005,
+            "longitude": 9.961842398000044
+          },
+          {
+            "latitude": 55.899628041000085,
+            "longitude": 10.069102249000084
+          },
+          {
+            "latitude": 55.89786968300007,
+            "longitude": 10.135919861000048
+          },
+          {
+            "latitude": 55.85566908600006,
+            "longitude": 10.176362100000063
+          },
+          {
+            "latitude": 55.901386399000046,
+            "longitude": 10.17812045800008
+          },
+          {
+            "latitude": 55.92776177300004,
+            "longitude": 10.23966299600005
+          },
+          {
+            "latitude": 55.985787594000044,
+            "longitude": 10.234387921000064
+          },
+          {
+            "latitude": 56.00864625000008,
+            "longitude": 10.18867060800005
+          },
+          {
+            "latitude": 56.03853834000006,
+            "longitude": 10.230871205000085
+          },
+          {
+            "latitude": 56.10887266800006,
+            "longitude": 10.186912249000045
+          },
+          {
+            "latitude": 56.17920699700005,
+            "longitude": 10.200979115000054
+          },
+          {
+            "latitude": 56.235474460000006,
+            "longitude": 10.266038369000057
+          },
+          {
+            "latitude": 56.304050430000075,
+            "longitude": 10.348681205000048
+          },
+          {
+            "latitude": 56.305808788000036,
+            "longitude": 10.441874190000078
+          },
+          {
+            "latitude": 56.291741923000075,
+            "longitude": 10.499900011000081
+          },
+          {
+            "latitude": 56.27064162400006,
+            "longitude": 10.543858967000064
+          },
+          {
+            "latitude": 56.233716102000045,
+            "longitude": 10.480558071000075
+          },
+          {
+            "latitude": 56.209099087000055,
+            "longitude": 10.494624937000083
+          },
+          {
+            "latitude": 56.186240430000055,
+            "longitude": 10.47704135500004
+          },
+          {
+            "latitude": 56.19151550400005,
+            "longitude": 10.535067176000041
+          },
+          {
+            "latitude": 56.233716102000045,
+            "longitude": 10.584301205000088
+          },
+          {
+            "latitude": 56.246024609000074,
+            "longitude": 10.628260161000071
+          },
+          {
+            "latitude": 56.22844102700009,
+            "longitude": 10.68980269800005
+          },
+          {
+            "latitude": 56.16689848900006,
+            "longitude": 10.681010907000086
+          },
+          {
+            "latitude": 56.165140131000044,
+            "longitude": 10.719694788000083
+          },
+          {
+            "latitude": 56.2266826690001,
+            "longitude": 10.721453146000044
+          },
+          {
+            "latitude": 56.27415834000004,
+            "longitude": 10.78299568300008
+          },
+          {
+            "latitude": 56.35504281800007,
+            "longitude": 10.895530609000048
+          },
+          {
+            "latitude": 56.44296072900005,
+            "longitude": 10.909597475000055
+          },
+          {
+            "latitude": 56.50801998300008,
+            "longitude": 10.826954639000064
+          },
+          {
+            "latitude": 56.49922819200003,
+            "longitude": 10.65463553400008
+          },
+          {
+            "latitude": 56.49746983300008,
+            "longitude": 10.485833146000061
+          },
+          {
+            "latitude": 56.541428789000065,
+            "longitude": 10.346922847000087
+          },
+          {
+            "latitude": 56.567804162000044,
+            "longitude": 10.299447175000067
+          },
+          {
+            "latitude": 56.48691968400004,
+            "longitude": 10.25197150300005
+          },
+          {
+            "latitude": 56.481644609000085,
+            "longitude": 10.317030757000053
+          },
+          {
+            "latitude": 56.460544311000035,
+            "longitude": 10.317030757000053
+          },
+          {
+            "latitude": 56.43944401200005,
+            "longitude": 10.246696429000052
+          },
+          {
+            "latitude": 56.43768565400006,
+            "longitude": 10.08492747300005
+          },
+          {
+            "latitude": 56.453510878,
+            "longitude": 10.019868219000044
+          },
+          {
+            "latitude": 56.472852818000035,
+            "longitude": 10.037451801000088
+          },
+          {
+            "latitude": 56.49043640100004,
+            "longitude": 10.19042896600007
+          },
+          {
+            "latitude": 56.55725401300006,
+            "longitude": 10.18867060800005
+          },
+          {
+            "latitude": 56.58538774400006,
+            "longitude": 10.230871205000085
+          },
+          {
+            "latitude": 56.638138490000074,
+            "longitude": 10.331097623000062
+          },
+          {
+            "latitude": 56.67506401300005,
+            "longitude": 10.313514041000076
+          },
+          {
+            "latitude": 56.66451386400007,
+            "longitude": 10.202737473000068
+          },
+          {
+            "latitude": 56.66627222200003,
+            "longitude": 10.114819563000081
+          },
+          {
+            "latitude": 56.61879655000004,
+            "longitude": 9.935467025000037
+          },
+          {
+            "latitude": 56.62055490800003,
+            "longitude": 9.810623592000072
+          },
+          {
+            "latitude": 56.64341356500003,
+            "longitude": 9.775456428000039
+          },
+          {
+            "latitude": 56.66451386400007,
+            "longitude": 9.903816577000045
+          },
+          {
+            "latitude": 56.70143938600006,
+            "longitude": 9.99349284600004
+          },
+          {
+            "latitude": 56.73660655000003,
+            "longitude": 10.137678220000053
+          },
+          {
+            "latitude": 56.72781475900007,
+            "longitude": 10.26252165300008
+          },
+          {
+            "latitude": 56.84738311800004,
+            "longitude": 10.24142135400007
+          },
+          {
+            "latitude": 56.93002595400009,
+            "longitude": 10.248454787000071
+          },
+          {
+            "latitude": 56.958159685000055,
+            "longitude": 10.269555085000093
+          },
+          {
+            "latitude": 56.96066433700008,
+            "longitude": 10.235742289000086
+          },
+          {
+            "latitude": 56.97917728500002,
+            "longitude": 10.295593947000045
+          },
+          {
+            "latitude": 56.97977362200004,
+            "longitude": 10.30344283800008
+          },
+          {
+            "latitude": 56.951778234000074,
+            "longitude": 10.396203013000047
+          },
+          {
+            "latitude": 56.963612811000075,
+            "longitude": 10.406245874000092
+          },
+          {
+            "latitude": 56.9886679950001,
+            "longitude": 10.331613743000048
+          },
+          {
+            "latitude": 56.98904518100002,
+            "longitude": 10.331690522000088
+          },
+          {
+            "latitude": 56.99041802000005,
+            "longitude": 10.331577439000057
+          },
+          {
+            "latitude": 57.004018478000035,
+            "longitude": 10.327217310000037
+          },
+          {
+            "latitude": 57.00311091000006,
+            "longitude": 10.334794119000039
+          },
+          {
+            "latitude": 57.008793290000085,
+            "longitude": 10.339614508000068
+          },
+          {
+            "latitude": 57.07813850800005,
+            "longitude": 10.365058211000076
+          },
+          {
+            "latitude": 57.166941240000114,
+            "longitude": 10.418065927000043
+          },
+          {
+            "latitude": 57.19918016100007,
+            "longitude": 10.441389322000076
+          },
+          {
+            "latitude": 57.23369053300007,
+            "longitude": 10.521961049000083
+          },
+          {
+            "latitude": 57.33129407000007,
+            "longitude": 10.49863765400005
+          },
+          {
+            "latitude": 57.38858661100005,
+            "longitude": 10.50075796300007
+          },
+          {
+            "latitude": 57.44807564700005,
+            "longitude": 10.519840741000051
+          },
+          {
+            "latitude": 57.563344637000085,
+            "longitude": 10.394742532000066
+          },
+          {
+            "latitude": 57.610032758000045,
+            "longitude": 10.418065927000043
+          },
+          {
+            "latitude": 57.66575189200006,
+            "longitude": 10.481675185000084
+          },
+          {
+            "latitude": 57.719116159000066,
+            "longitude": 10.56012660400006
+          },
+          {
+            "latitude": 57.73839870200004,
+            "longitude": 10.613134320000086
+          },
+          {
+            "latitude": 57.7335661270001,
+            "longitude": 10.574411001000046
+          },
+          {
+            "latitude": 57.745715948000026,
+            "longitude": 10.604790179000076
+          },
+          {
+            "latitude": 57.74974497200009,
+            "longitude": 10.620730394000077
+          },
+          {
+            "latitude": 57.82471343104936,
+            "longitude": 11.034055273621945
+          },
+          {
+            "latitude": 57.81629309200008,
+            "longitude": 11.04746767000006
+          },
+          {
+            "latitude": 57.44945071800004,
+            "longitude": 11.397992826000063
+          },
+          {
+            "latitude": 56.50840606500003,
+            "longitude": 12.14659669200006
+          },
+          {
+            "latitude": 56.303337104000036,
+            "longitude": 12.086540859000024
+          },
+          {
+            "latitude": 56.21486238693757,
+            "longitude": 12.364811647375937
+          },
+          {
+            "latitude": 56.12767739200004,
+            "longitude": 12.27318103300007
+          },
+          {
+            "latitude": 56.09883103300007,
+            "longitude": 12.256967756000051
+          },
+          {
+            "latitude": 56.097248393000086,
+            "longitude": 12.256877822000094
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
+    },
     {
       "id": "dk-authority-dk-1f9b6dbc-075d-4e4b-b1af-94bad7d57239",
       "authority": "Danish Maritime Authority",
@@ -52,7 +983,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-e9bc3338-a9c1-4e0d-8880-a80438672c9c",
@@ -127,7 +1058,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-18b303be-9022-4ba4-ad5d-968ab990684c",
@@ -174,7 +1105,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-b190c269-4730-4a0f-8c53-743bc986008f",
@@ -201,7 +1132,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-d606911e-a29e-4ef8-bc59-bb5c622bc3bb",
@@ -228,7 +1159,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-aa011121-ff2b-4b1c-bc26-113e19c177af",
@@ -255,7 +1186,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-24880258-167c-45b3-9814-b0f5e7dccf44",
@@ -310,7 +1241,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-63e0bce5-1519-4e89-a79d-77ea78b00097",
@@ -361,7 +1292,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-91d752ac-736e-46ce-bd99-cc26fc912152",
@@ -412,7 +1343,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-78c7ce4f-dca4-4c85-aed1-1e7c04d076af",
@@ -459,7 +1390,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-a45dc2d4-f65f-4ca4-939f-99813fc098b1",
@@ -486,7 +1417,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-d9209703-48fa-4398-b1c6-7b7a10461b2e",
@@ -513,7 +1444,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-dbccca08-6f7f-4029-b0ea-ed091f571f1b",
@@ -572,7 +1503,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-3e2f6e30-3711-4056-b49e-55e5fa96d80d",
@@ -611,7 +1542,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-c2b6072c-a2ac-4cbd-ad6d-076c905858c6",
@@ -638,7 +1569,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-6e8d5201-019b-4f3b-a79c-da40eb776a48",
@@ -681,7 +1612,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-80b2d974-d6d7-46cf-86fa-bdf41998dda1",
@@ -708,7 +1639,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-4867fd05-b6f8-4b52-9aa3-fcff7c43fda6",
@@ -755,7 +1686,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-496ca0ce-346d-41f5-a3e1-753f38e9e058",
@@ -810,7 +1741,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-e0d875f6-f01a-4e8e-b657-a0db40827903",
@@ -877,7 +1808,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-78af3aa1-5f4e-4052-9218-04de47fb8bf2",
@@ -904,7 +1835,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-a711c63c-fcee-47e6-8fbc-f4f62469286c",
@@ -931,7 +1862,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
@@ -958,7 +1889,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-a2c25855-f282-4bd8-a440-553761d5d341",
@@ -985,7 +1916,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
@@ -1012,7 +1943,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
@@ -1039,7 +1970,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
@@ -1066,7 +1997,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
@@ -1093,7 +2024,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
@@ -1120,7 +2051,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
@@ -1147,7 +2078,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
@@ -1174,7 +2105,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
@@ -1201,7 +2132,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
@@ -1228,7 +2159,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
@@ -1255,7 +2186,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
@@ -1282,7 +2213,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-08T00:41:25.439Z"
+      "fetchedAt": "2026-11-08T06:26:15.798Z"
     },
     {
       "id": "dk-authority-dk-180bcf5c-212f-428b-8059-a7cacf30fa31",
@@ -29601,7 +30532,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20282",
@@ -29628,7 +30559,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20176",
@@ -29655,7 +30586,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20174",
@@ -29682,7 +30613,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20025",
@@ -29704,7 +30635,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20333",
@@ -29726,7 +30657,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20163",
@@ -29748,7 +30679,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20164",
@@ -29770,7 +30701,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20047",
@@ -29797,7 +30728,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20046",
@@ -29836,7 +30767,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-20030",
@@ -29863,7 +30794,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19714",
@@ -29890,7 +30821,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19628",
@@ -29917,7 +30848,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19622",
@@ -30034,7 +30965,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19599",
@@ -30061,7 +30992,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19574",
@@ -30083,7 +31014,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19569",
@@ -30105,7 +31036,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19561",
@@ -30132,7 +31063,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19560",
@@ -30159,7 +31090,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19541",
@@ -30181,7 +31112,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19494",
@@ -30203,7 +31134,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19318",
@@ -30230,7 +31161,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19212",
@@ -30252,7 +31183,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19156",
@@ -30274,7 +31205,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19154",
@@ -30301,7 +31232,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19105",
@@ -30355,7 +31286,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19063",
@@ -30382,7 +31313,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-19019",
@@ -30404,7 +31335,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18938",
@@ -30431,7 +31362,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18883",
@@ -30458,7 +31389,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18706",
@@ -30485,7 +31416,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18705",
@@ -30507,7 +31438,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18704",
@@ -30529,7 +31460,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18703",
@@ -30556,7 +31487,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18702",
@@ -30583,7 +31514,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18701",
@@ -30618,7 +31549,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18700",
@@ -30645,7 +31576,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18699",
@@ -30672,7 +31603,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18698",
@@ -30699,7 +31630,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18697",
@@ -30726,7 +31657,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18696",
@@ -30753,7 +31684,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18694",
@@ -30780,7 +31711,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18695",
@@ -30807,7 +31738,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18693",
@@ -30834,7 +31765,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18692",
@@ -30861,7 +31792,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18691",
@@ -30883,7 +31814,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18690",
@@ -30910,7 +31841,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18689",
@@ -30937,7 +31868,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18688",
@@ -30959,7 +31890,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18687",
@@ -30986,7 +31917,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18686",
@@ -31008,7 +31939,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18685",
@@ -31035,7 +31966,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18684",
@@ -31057,7 +31988,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18683",
@@ -31084,7 +32015,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18682",
@@ -31111,7 +32042,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18681",
@@ -31142,7 +32073,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18680",
@@ -31169,7 +32100,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     },
     {
       "id": "is-lhg-warning-18679",
@@ -31191,7 +32122,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-08T00:41:25.817Z"
+      "fetchedAt": "2026-11-08T06:26:15.785Z"
     }
   ]
 }
