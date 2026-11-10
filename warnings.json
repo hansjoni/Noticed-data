@@ -1,180 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T19:20:30.209Z",
-  "version": "c4b62eb9e5c2dee4e5333e8bc129d826766db0b5b5f3ab92a2c55438e12edfc3",
+  "generatedAt": "2026-11-10T00:37:48.610Z",
+  "version": "04003d59651baa0399bcdd02a67d1466e325bfceb9bc269473126b7f0738893a",
   "records": [
     {
-      "id": "dk-authority-dk-dce6b6b8-a742-4d79-9405-648f478a885d",
+      "id": "dk-authority-dk-4822bc89-374d-44d3-8560-93e66ad0aec0",
       "authority": "Danish Maritime Authority",
       "country": "DK",
-      "sourceId": "dma-dk-dce6b6b8-a742-4d79-9405-648f478a885d",
-      "warningNumber": "Local Warning-273-26",
-      "status": "active",
-      "publishedAt": "2026-11-09T19:03:36.000Z",
-      "updatedAt": "2026-11-09T19:03:36.000Z",
-      "titleIs": "Local Warning-273-26 · Denmark. The Waters South of Zealand. storstrøm. Light unlit.",
-      "titleEn": "Local Warning-273-26 · Denmark. The Waters South of Zealand. storstrøm. Light unlit.",
-      "bodyIs": "storstrøm\nLight unlit\nThe front light\nin pos.\n54° 56.6'N - 011° 52.9'E\nis unlit.",
-      "bodyEn": "storstrøm\nLight unlit\nThe front light\nin pos.\n54° 56.6'N - 011° 52.9'E\nis unlit.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 54.943589068450194,
-            "longitude": 11.88154465614606
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
-    },
-    {
-      "id": "dk-authority-dk-99d192d9-3492-4d36-9777-b26dc8272e11",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-99d192d9-3492-4d36-9777-b26dc8272e11",
-      "warningNumber": "Local Warning-272-26",
-      "status": "active",
-      "publishedAt": "2026-11-09T11:28:41.000Z",
-      "updatedAt": "2026-11-09T11:28:41.000Z",
-      "titleIs": "Local Warning-272-26 · Denmark. The Liim Fiord. Oddesund. Buoy off station.",
-      "titleEn": "Local Warning-272-26 · Denmark. The Liim Fiord. Oddesund. Buoy off station.",
-      "bodyIs": "Oddesund\nBuoy off station\nThe special buoy\nin pos.\n56° 34.7'N - 008° 34.6'E\nis off station.",
-      "bodyEn": "Oddesund\nBuoy off station\nThe special buoy\nin pos.\n56° 34.7'N - 008° 34.6'E\nis off station.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.57785000000001,
-            "longitude": 8.5763
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
-    },
-    {
-      "id": "dk-authority-dk-07654a04-91a3-42ee-a3ef-6c96a0452026",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-07654a04-91a3-42ee-a3ef-6c96a0452026",
-      "warningNumber": "NW-449-26",
-      "status": "active",
-      "publishedAt": "2026-11-09T11:16:06.000Z",
-      "updatedAt": "2026-11-09T11:19:11.000Z",
-      "titleIs": "NW-449-26 · Denmark. Kattegat. Roskilde Fjord. Bridge closed for passage.",
-      "titleEn": "NW-449-26 · Denmark. Kattegat. Roskilde Fjord. Bridge closed for passage.",
-      "bodyIs": "Roskilde Fjord\nBridge closed for passage\nThe bridge\n»Kronprins Frederiks Bro«\nin pos.\n55° 50.6'N - 012° 02.4'E\nis closed for passage that requires opening of the bridge.",
-      "bodyEn": "Roskilde Fjord\nBridge closed for passage\nThe bridge\n»Kronprins Frederiks Bro«\nin pos.\n55° 50.6'N - 012° 02.4'E\nis closed for passage that requires opening of the bridge.",
-      "category": "closure",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.843566666666675,
-            "longitude": 12.04045
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
-    },
-    {
-      "id": "dk-authority-dk-4042d12f-3756-4047-96b2-b200c0be5d1c",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-4042d12f-3756-4047-96b2-b200c0be5d1c",
-      "warningNumber": "NW-448-26",
-      "status": "active",
-      "publishedAt": "2026-11-09T07:54:36.000Z",
-      "updatedAt": "2026-11-09T08:01:16.000Z",
-      "titleIs": "NW-448-26 · Denmark. Kattegat. Entrance to Mariager Fjord. Light buoy missing.",
-      "titleEn": "NW-448-26 · Denmark. Kattegat. Entrance to Mariager Fjord. Light buoy missing.",
-      "bodyIs": "Entrance to Mariager Fjord\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 41.4'N - 010° 30.0'E\nis missing.",
-      "bodyEn": "Entrance to Mariager Fjord\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 41.4'N - 010° 30.0'E\nis missing.",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 56.69001666666668,
-            "longitude": 10.499366666666667
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
-    },
-    {
-      "id": "dk-authority-dk-1f9b6dbc-075d-4e4b-b1af-94bad7d57239",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-1f9b6dbc-075d-4e4b-b1af-94bad7d57239",
+      "sourceId": "dma-dk-4822bc89-374d-44d3-8560-93e66ad0aec0",
       "warningNumber": "undefined",
       "status": "active",
-      "publishedAt": "2026-11-08T00:21:51.000Z",
-      "updatedAt": "2026-11-08T00:21:52.000Z",
-      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
-      "bodyIs": "9 November 2026, hours 09:00 - 20:00.\n10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "bodyEn": "9 November 2026, hours 09:00 - 20:00.\n10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.180683333333334,
-            "longitude": 9.3492
-          },
-          {
-            "latitude": 57.201116666666664,
-            "longitude": 9.348616666666667
-          },
-          {
-            "latitude": 57.255833333333335,
-            "longitude": 9.469716666666667
-          },
-          {
-            "latitude": 57.25043333333333,
-            "longitude": 9.501283333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          },
-          {
-            "latitude": 57.17771666666667,
-            "longitude": 9.504533333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
-    },
-    {
-      "id": "dk-authority-dk-e9bc3338-a9c1-4e0d-8880-a80438672c9c",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "dma-dk-e9bc3338-a9c1-4e0d-8880-a80438672c9c",
-      "warningNumber": "undefined",
-      "status": "active",
-      "publishedAt": "2026-11-08T00:21:51.000Z",
-      "updatedAt": "2026-11-08T00:21:51.000Z",
+      "publishedAt": "2026-11-10T00:21:50.000Z",
+      "updatedAt": "2026-11-10T00:21:51.000Z",
       "titleIs": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
       "titleEn": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
-      "bodyIs": "9 November 2026, hours 09:00 - 18:00.\n10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
-      "bodyEn": "9 November 2026, hours 09:00 - 18:00.\n10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "bodyIs": "10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "bodyEn": "10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
       "category": "aid-to-navigation",
       "geometry": {
         "type": "polygon",
@@ -235,7 +76,166 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
+    },
+    {
+      "id": "dk-authority-dk-ec6ad10b-c007-4549-aee0-2b67d7948db8",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-ec6ad10b-c007-4549-aee0-2b67d7948db8",
+      "warningNumber": "undefined",
+      "status": "active",
+      "publishedAt": "2026-11-10T00:21:50.000Z",
+      "updatedAt": "2026-11-10T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
+    },
+    {
+      "id": "dk-authority-dk-dce6b6b8-a742-4d79-9405-648f478a885d",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-dce6b6b8-a742-4d79-9405-648f478a885d",
+      "warningNumber": "Local Warning-273-26",
+      "status": "active",
+      "publishedAt": "2026-11-09T19:03:36.000Z",
+      "updatedAt": "2026-11-09T19:03:36.000Z",
+      "titleIs": "Local Warning-273-26 · Denmark. The Waters South of Zealand. storstrøm. Light unlit.",
+      "titleEn": "Local Warning-273-26 · Denmark. The Waters South of Zealand. storstrøm. Light unlit.",
+      "bodyIs": "storstrøm\nLight unlit\nThe front light\nin pos.\n54° 56.6'N - 011° 52.9'E\nis unlit.",
+      "bodyEn": "storstrøm\nLight unlit\nThe front light\nin pos.\n54° 56.6'N - 011° 52.9'E\nis unlit.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 54.943589068450194,
+            "longitude": 11.88154465614606
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
+    },
+    {
+      "id": "dk-authority-dk-99d192d9-3492-4d36-9777-b26dc8272e11",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-99d192d9-3492-4d36-9777-b26dc8272e11",
+      "warningNumber": "Local Warning-272-26",
+      "status": "active",
+      "publishedAt": "2026-11-09T11:28:41.000Z",
+      "updatedAt": "2026-11-09T11:28:41.000Z",
+      "titleIs": "Local Warning-272-26 · Denmark. The Liim Fiord. Oddesund. Buoy off station.",
+      "titleEn": "Local Warning-272-26 · Denmark. The Liim Fiord. Oddesund. Buoy off station.",
+      "bodyIs": "Oddesund\nBuoy off station\nThe special buoy\nin pos.\n56° 34.7'N - 008° 34.6'E\nis off station.",
+      "bodyEn": "Oddesund\nBuoy off station\nThe special buoy\nin pos.\n56° 34.7'N - 008° 34.6'E\nis off station.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.57785000000001,
+            "longitude": 8.5763
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
+    },
+    {
+      "id": "dk-authority-dk-07654a04-91a3-42ee-a3ef-6c96a0452026",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-07654a04-91a3-42ee-a3ef-6c96a0452026",
+      "warningNumber": "NW-449-26",
+      "status": "active",
+      "publishedAt": "2026-11-09T11:16:06.000Z",
+      "updatedAt": "2026-11-09T11:19:11.000Z",
+      "titleIs": "NW-449-26 · Denmark. Kattegat. Roskilde Fjord. Bridge closed for passage.",
+      "titleEn": "NW-449-26 · Denmark. Kattegat. Roskilde Fjord. Bridge closed for passage.",
+      "bodyIs": "Roskilde Fjord\nBridge closed for passage\nThe bridge\n»Kronprins Frederiks Bro«\nin pos.\n55° 50.6'N - 012° 02.4'E\nis closed for passage that requires opening of the bridge.",
+      "bodyEn": "Roskilde Fjord\nBridge closed for passage\nThe bridge\n»Kronprins Frederiks Bro«\nin pos.\n55° 50.6'N - 012° 02.4'E\nis closed for passage that requires opening of the bridge.",
+      "category": "closure",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.843566666666675,
+            "longitude": 12.04045
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
+    },
+    {
+      "id": "dk-authority-dk-4042d12f-3756-4047-96b2-b200c0be5d1c",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-4042d12f-3756-4047-96b2-b200c0be5d1c",
+      "warningNumber": "NW-448-26",
+      "status": "active",
+      "publishedAt": "2026-11-09T07:54:36.000Z",
+      "updatedAt": "2026-11-09T08:01:16.000Z",
+      "titleIs": "NW-448-26 · Denmark. Kattegat. Entrance to Mariager Fjord. Light buoy missing.",
+      "titleEn": "NW-448-26 · Denmark. Kattegat. Entrance to Mariager Fjord. Light buoy missing.",
+      "bodyIs": "Entrance to Mariager Fjord\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 41.4'N - 010° 30.0'E\nis missing.",
+      "bodyEn": "Entrance to Mariager Fjord\nLight buoy missing\nThe starboard hand light buoy\nin pos.\n56° 41.4'N - 010° 30.0'E\nis missing.",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.69001666666668,
+            "longitude": 10.499366666666667
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-18b303be-9022-4ba4-ad5d-968ab990684c",
@@ -282,7 +282,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-b190c269-4730-4a0f-8c53-743bc986008f",
@@ -309,7 +309,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-d606911e-a29e-4ef8-bc59-bb5c622bc3bb",
@@ -336,7 +336,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-aa011121-ff2b-4b1c-bc26-113e19c177af",
@@ -363,7 +363,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-24880258-167c-45b3-9814-b0f5e7dccf44",
@@ -418,7 +418,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-63e0bce5-1519-4e89-a79d-77ea78b00097",
@@ -469,7 +469,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-91d752ac-736e-46ce-bd99-cc26fc912152",
@@ -520,7 +520,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-78c7ce4f-dca4-4c85-aed1-1e7c04d076af",
@@ -567,7 +567,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-a45dc2d4-f65f-4ca4-939f-99813fc098b1",
@@ -594,7 +594,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-d9209703-48fa-4398-b1c6-7b7a10461b2e",
@@ -621,7 +621,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-dbccca08-6f7f-4029-b0ea-ed091f571f1b",
@@ -680,7 +680,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-3e2f6e30-3711-4056-b49e-55e5fa96d80d",
@@ -719,7 +719,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-c2b6072c-a2ac-4cbd-ad6d-076c905858c6",
@@ -746,7 +746,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-6e8d5201-019b-4f3b-a79c-da40eb776a48",
@@ -789,7 +789,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-80b2d974-d6d7-46cf-86fa-bdf41998dda1",
@@ -816,7 +816,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-4867fd05-b6f8-4b52-9aa3-fcff7c43fda6",
@@ -863,7 +863,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-496ca0ce-346d-41f5-a3e1-753f38e9e058",
@@ -918,7 +918,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-e0d875f6-f01a-4e8e-b657-a0db40827903",
@@ -985,7 +985,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-78af3aa1-5f4e-4052-9218-04de47fb8bf2",
@@ -1012,7 +1012,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-a711c63c-fcee-47e6-8fbc-f4f62469286c",
@@ -1039,7 +1039,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-6f916f6f-7941-46ab-a5c3-d243c0d62c39",
@@ -1066,7 +1066,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-a2c25855-f282-4bd8-a440-553761d5d341",
@@ -1093,7 +1093,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-49dec650-be80-4f4c-b2f1-34cc1ed69356",
@@ -1120,7 +1120,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-4ef49ff1-c93f-499e-84cb-c4f74aa6c10d",
@@ -1147,7 +1147,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-36077df1-07dd-426f-b4cb-22672cb01f1d",
@@ -1174,7 +1174,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-c7990a3e-47c1-4100-943a-ece85034a8a1",
@@ -1201,7 +1201,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-58d4175e-45b5-4995-a4ff-494312be80ff",
@@ -1228,7 +1228,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-e782f87e-bc38-413b-9842-d753865e5b1d",
@@ -1255,7 +1255,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-32eb1619-d12d-4a62-8671-14d44c1ab78b",
@@ -1282,7 +1282,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-c65fd127-9be1-4b92-af11-d41735e52ae6",
@@ -1309,7 +1309,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-b8ea2b83-a282-4cb8-86f9-930be9e52489",
@@ -1336,7 +1336,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-32ff52c5-49b5-412f-884f-67791239ee2e",
@@ -1363,7 +1363,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-e62132d6-bfb4-497a-a9b6-7b3ab86d18b6",
@@ -1390,7 +1390,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-09T19:20:31.006Z"
+      "fetchedAt": "2026-11-10T00:37:49.526Z"
     },
     {
       "id": "dk-authority-dk-b280d074-9ce0-41fb-8524-d5eeceaf7b4d",
@@ -2349,6 +2349,132 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-11-08T06:26:15.798Z"
+    },
+    {
+      "id": "dk-authority-dk-1f9b6dbc-075d-4e4b-b1af-94bad7d57239",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-1f9b6dbc-075d-4e4b-b1af-94bad7d57239",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-11-08T00:21:51.000Z",
+      "updatedAt": "2026-11-08T00:21:52.000Z",
+      "titleIs": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Skagerrak. EK R 48 Tranum S. Firing exercises. Warning.",
+      "bodyIs": "9 November 2026, hours 09:00 - 20:00.\n10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "bodyEn": "9 November 2026, hours 09:00 - 20:00.\n10 November 2026, hours 08:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 08:00 - 22:00.\n13 November 2026, hours 08:00 - 16:00.\n16 November 2026, hours 10:00 - 22:00.\n17 November 2026, hours 10:00 - 22:00.\n18 November 2026, hours 08:00 - 23:00.\n19 November 2026, hours 09:00 - 15:00.\n21 November 2026, hours 08:00 - 22:00.\n22 November 2026, hours 08:00 - 16:00.\n23 November 2026, hours 11:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices, a temporary prohibited area is established on the sea off the firing practice area at position:\n57° 12'N - 009° 29'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice and until its end:\na)\nBy daylight, four white, flashing lights (60 flashes per minute) are lit on signal mast 1 and 2.\nb)\nIn darkness, a light is lit displaying a red and white alternating flash (30 flashes per minute) on signal masts 1 and 2.\n57° 10,77'N - 009° 26,66'E, signal mast 1 ved Ejstrup Strand.\n57° 12,38'N - 009° 30,22'E, signal mast 2 ved Rødhus Strand.\nInformation about firing practices is available from Tranum Skydeterræn tel. +45 7283 9699 / +45 2542 5815, or over VHF radio. Call name: Tranum. Call channel: 16. Conversation channels: 9, 12 and 13. The radio is open from one hour before the start of the firing practice and until its end.\nFor further information see Naviairs webbrief and at https://www.forsvaret.dk/da/oevelsesaktiviteter/\nSource: DC DNK December 2025\nCharts: 92",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.180683333333334,
+            "longitude": 9.3492
+          },
+          {
+            "latitude": 57.201116666666664,
+            "longitude": 9.348616666666667
+          },
+          {
+            "latitude": 57.255833333333335,
+            "longitude": 9.469716666666667
+          },
+          {
+            "latitude": 57.25043333333333,
+            "longitude": 9.501283333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          },
+          {
+            "latitude": 57.17771666666667,
+            "longitude": 9.504533333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-09T19:20:31.006Z"
+    },
+    {
+      "id": "dk-authority-dk-e9bc3338-a9c1-4e0d-8880-a80438672c9c",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "dma-dk-e9bc3338-a9c1-4e0d-8880-a80438672c9c",
+      "warningNumber": "undefined",
+      "status": "inactive",
+      "publishedAt": "2026-11-08T00:21:51.000Z",
+      "updatedAt": "2026-11-08T00:21:51.000Z",
+      "titleIs": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
+      "titleEn": "undefined · Denmark. Kattegat. EK R 18 Jaegerspris. Firing exercises. Warning.",
+      "bodyIs": "9 November 2026, hours 09:00 - 18:00.\n10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "bodyEn": "9 November 2026, hours 09:00 - 18:00.\n10 November 2026, hours 09:00 - 16:00.\n11 November 2026, hours 08:00 - 23:00.\n12 November 2026, hours 09:00 - 23:00.\n13 November 2026, hours 09:00 - 18:00.\n16 November 2026, hours 09:00 - 23:00.\n17 November 2026, hours 09:00 - 18:00.\n18 November 2026, hours 09:00 - 21:00.\n19 November 2026, hours 09:00 - 23:59.\n20 November 2026, hours 09:00 - 16:00.\n21 November 2026, hours 09:00 - 20:00.\n22 November 2026, hours 09:00 - 16:00.\n23 November 2026, hours 09:00 - 17:00.\nFiring exercises. Warning.\nIn connection with firing practices in EK R 18 Jægerspris, a temporary prohibited area is established on the sea off the firing practice area in position:\n55° 52'N - 011° 57'E.\nDuring firing practices, all navigation, anchoring and fishing are prohibited in the area.\nInformation about firing practices is given by displaying the following signals from one hour before the start of the firing practice until its end:\na)\nBy daylight, a sphere is hoisted and a white, flashing light is lit (60 flashes per minute) on signal mast 1 and 3.\nb)\n30 minutes before sunset, lights displaying a red and white alternating flash (30 flashes per minute) are lit on signal masts 1 and 3.\n55 ° 51,57'N - 011 ° 57,33'E, Signal mast 1 - at the coast at observationspost Syd.\n55 ° 54,00'N - 011 ° 55,54 ' E, Signal mast 3 - at the coast of Storehøj.\nInformation about firing practices is available from Camp Jægerspris, tel. +45 7283 9730 or from\nhttps://forsvaret.dk/da/oevelsesaktiviteter or over VHF radio. Call name: Jægerspris. Call channel: 16. Conversation channels: 6, 8, and 67. The radio and telephone are open from one hour before the start of the firing practice and until its end.\nSource: DC DNK December 2025\nCharts: 117, 116",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.82839999999999,
+            "longitude": 11.868583333333333
+          },
+          {
+            "latitude": 55.892499999999984,
+            "longitude": 11.837216666666666
+          },
+          {
+            "latitude": 55.91543333333334,
+            "longitude": 11.863166666666666
+          },
+          {
+            "latitude": 55.89661666666666,
+            "longitude": 11.936166666666669
+          },
+          {
+            "latitude": 55.85803333333334,
+            "longitude": 11.964783333333333
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          },
+          {
+            "latitude": 55.8434,
+            "longitude": 11.96485
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-09T19:20:31.006Z"
     },
     {
       "id": "dk-authority-dk-180bcf5c-212f-428b-8059-a7cacf30fa31",
@@ -30667,7 +30793,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20176",
@@ -30694,7 +30820,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20174",
@@ -30721,7 +30847,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20025",
@@ -30743,7 +30869,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20333",
@@ -30765,7 +30891,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20282",
@@ -30792,7 +30918,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20163",
@@ -30814,7 +30940,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20164",
@@ -30836,7 +30962,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20047",
@@ -30863,7 +30989,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20046",
@@ -30902,7 +31028,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-20030",
@@ -30929,7 +31055,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19714",
@@ -30956,7 +31082,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19628",
@@ -30983,7 +31109,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19622",
@@ -31100,7 +31226,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19599",
@@ -31127,7 +31253,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19574",
@@ -31149,7 +31275,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19569",
@@ -31171,7 +31297,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19561",
@@ -31198,7 +31324,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19560",
@@ -31225,7 +31351,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19541",
@@ -31247,7 +31373,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19494",
@@ -31269,7 +31395,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19318",
@@ -31296,7 +31422,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19212",
@@ -31318,7 +31444,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19156",
@@ -31340,7 +31466,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19154",
@@ -31367,7 +31493,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19105",
@@ -31394,7 +31520,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19093",
@@ -31421,7 +31547,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19063",
@@ -31448,7 +31574,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-19019",
@@ -31470,7 +31596,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18938",
@@ -31497,7 +31623,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18883",
@@ -31524,7 +31650,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18706",
@@ -31551,7 +31677,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18705",
@@ -31573,7 +31699,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18704",
@@ -31595,7 +31721,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18703",
@@ -31622,7 +31748,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18702",
@@ -31649,7 +31775,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18701",
@@ -31684,7 +31810,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18700",
@@ -31711,7 +31837,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18699",
@@ -31738,7 +31864,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18698",
@@ -31765,7 +31891,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18697",
@@ -31792,7 +31918,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18696",
@@ -31819,7 +31945,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18694",
@@ -31846,7 +31972,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18695",
@@ -31873,7 +31999,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18693",
@@ -31900,7 +32026,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18692",
@@ -31927,7 +32053,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18691",
@@ -31949,7 +32075,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18690",
@@ -31976,7 +32102,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18689",
@@ -32003,7 +32129,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18688",
@@ -32025,7 +32151,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18687",
@@ -32052,7 +32178,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18686",
@@ -32074,7 +32200,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18685",
@@ -32101,7 +32227,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18684",
@@ -32123,7 +32249,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18683",
@@ -32150,7 +32276,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18682",
@@ -32177,7 +32303,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18681",
@@ -32208,7 +32334,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18680",
@@ -32235,7 +32361,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     },
     {
       "id": "is-lhg-warning-18679",
@@ -32257,7 +32383,7 @@
       },
       "sourceUrlIs": "https://www.lhg.is/siglingaoryggi/tilkynningar-til-sjofarenda/siglingavidvaranir/",
       "sourceUrlEn": "https://www.lhg.is/en/jrcc-iceland/navigational-warnings/",
-      "fetchedAt": "2026-11-09T19:20:31.818Z"
+      "fetchedAt": "2026-11-10T00:37:49.716Z"
     }
   ]
 }
