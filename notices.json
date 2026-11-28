@@ -1,8 +1,224 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T08:24:50.112Z",
-  "version": "b8f661cdfb39087f76f2502bede8904b3aa98478506277d6a05c352d2488fef8",
+  "generatedAt": "2026-11-28T09:20:58.463Z",
+  "version": "145ba6bed8030ca9a0cb385544bf1fb0f7fac997abd1484908dfa2cbc8ed6856",
   "records": [
+    {
+      "id": "dk-authority-dk-8f047487-d2b6-4b80-b91f-687a4e1f407a",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-8f047487-d2b6-4b80-b91f-687a4e1f407a",
+      "warningNumber": "NM-1176-26",
+      "status": "active",
+      "publishedAt": "2026-11-27T12:08:45.000Z",
+      "updatedAt": "2026-11-27T12:08:45.000Z",
+      "titleIs": "NM-1176-26 · Denmark. The Sound. Kalvebodbroen. Light lit.",
+      "titleEn": "NM-1176-26 · Denmark. The Sound. Kalvebodbroen. Light lit.",
+      "bodyIs": "Kalvebodbroen\nLight lit\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 26 November 2026\nCharts: 134",
+      "bodyEn": "Kalvebodbroen\nLight lit\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 26 November 2026\nCharts: 134",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.613816666666665,
+            "longitude": 12.511883333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-0ff53591-b21d-4589-ba78-401adc7cdb33",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-0ff53591-b21d-4589-ba78-401adc7cdb33",
+      "warningNumber": "NM-1175-26",
+      "status": "active",
+      "publishedAt": "2026-11-27T12:03:42.000Z",
+      "updatedAt": "2026-11-27T12:03:42.000Z",
+      "titleIs": "NM-1175-26 · Denmark. The North Sea. Nini Oliefelt. Measuring equipment deployed.",
+      "titleEn": "NM-1175-26 · Denmark. The North Sea. Nini Oliefelt. Measuring equipment deployed.",
+      "bodyIs": "Nini Oliefelt\nMeasuring equipment deployed\nMeasuring equipment deployed on the seabed in the mentioned position.\n56° 38.286'N - 005° 17.556'E.\nSource: INEOS 23 November 2026\nCharts: 93",
+      "bodyEn": "Nini Oliefelt\nMeasuring equipment deployed\nMeasuring equipment deployed on the seabed in the mentioned position.\n56° 38.286'N - 005° 17.556'E.\nSource: INEOS 23 November 2026\nCharts: 93",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.6381,
+            "longitude": 5.2926
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-5eb3ad9f-f9bd-479f-b992-703ca0210778",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-5eb3ad9f-f9bd-479f-b992-703ca0210778",
+      "warningNumber": "NM-1174-26",
+      "status": "active",
+      "publishedAt": "2026-11-27T11:37:52.000Z",
+      "updatedAt": "2026-11-27T11:37:53.000Z",
+      "titleIs": "NM-1174-26 · Denmark. Storebælt. Øresund. BELTREP og SOUNDREP.",
+      "titleEn": "NM-1174-26 · Denmark. Storebælt. Øresund. BELTREP og SOUNDREP.",
+      "bodyIs": "Storebælt. Øresund. BELTREP og SOUNDREP\nAs of 1 December 2026 , ships subject to the BELTREP or SOUNDREP reporting requirements must submit certificates of insurance under Designator X.\nThe requirement covers the convention certificates the ship is required to carry on board under:\na) International Convention on Civil Liability for Oil Pollution Damage, 1992, as amended ( CLC 1992 ).\nb) International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 ( Bunkers Convention 2001 ).\nc) Nairobi International Convention on the Removal of Wrecks, 2007 ( Nairobi WRC 2007 ).\nOnly certificates for the Conventions applicable to the individual ship are to be submitted.\nBELTREP: Digital copies of the certificates are to be sent to cert@brs2.dk. This address is to be used for certificates only.\nSOUNDREP: Visit the SOUNDREP webpage for information on reporting methods.\nThe reporting procedures for all other designators remain unchanged.",
+      "bodyEn": "Storebælt. Øresund. BELTREP og SOUNDREP\nAs of 1 December 2026 , ships subject to the BELTREP or SOUNDREP reporting requirements must submit certificates of insurance under Designator X.\nThe requirement covers the convention certificates the ship is required to carry on board under:\na) International Convention on Civil Liability for Oil Pollution Damage, 1992, as amended ( CLC 1992 ).\nb) International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 ( Bunkers Convention 2001 ).\nc) Nairobi International Convention on the Removal of Wrecks, 2007 ( Nairobi WRC 2007 ).\nOnly certificates for the Conventions applicable to the individual ship are to be submitted.\nBELTREP: Digital copies of the certificates are to be sent to cert@brs2.dk. This address is to be used for certificates only.\nSOUNDREP: Visit the SOUNDREP webpage for information on reporting methods.\nThe reporting procedures for all other designators remain unchanged.",
+      "category": "cable-or-pipeline",
+      "geometry": {
+        "type": "none",
+        "coordinates": []
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-fe8b80eb-bb66-47d1-8704-7202e899953a",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-fe8b80eb-bb66-47d1-8704-7202e899953a",
+      "warningNumber": "NM-1173-26",
+      "status": "active",
+      "publishedAt": "2026-11-27T10:59:49.000Z",
+      "updatedAt": "2026-11-27T10:59:49.000Z",
+      "titleIs": "NM-1173-26 · Denmark. The North Sea. Nini-A. Obstruction.",
+      "titleEn": "NM-1173-26 · Denmark. The North Sea. Nini-A. Obstruction.",
+      "bodyIs": "Nini-A\nObstruction\nAn obstruction has been reported in the mentioned position.\n56° 37.694'N - 005° 16.641'E.\nThe depht above the obstruction is unknown. The obstruction is not marked.\nMariners are requested to keep well clear.\nSource: INEOS 25 November 2026\nCharts: 93",
+      "bodyEn": "Nini-A\nObstruction\nAn obstruction has been reported in the mentioned position.\n56° 37.694'N - 005° 16.641'E.\nThe depht above the obstruction is unknown. The obstruction is not marked.\nMariners are requested to keep well clear.\nSource: INEOS 25 November 2026\nCharts: 93",
+      "category": "other",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.628233333333334,
+            "longitude": 5.27735
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-2251f39c-73bb-428f-ae9a-3566c06524ef",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-2251f39c-73bb-428f-ae9a-3566c06524ef",
+      "warningNumber": "NM-1172-26 (T)",
+      "status": "active",
+      "publishedAt": "2026-11-27T10:57:36.000Z",
+      "updatedAt": "2026-11-27T10:57:36.000Z",
+      "titleIs": "NM-1172-26 (T) · Denmark. The North Sea. Nini-A. Buoyage missing.",
+      "titleEn": "NM-1172-26 (T) · Denmark. The North Sea. Nini-A. Buoyage missing.",
+      "bodyIs": "Nini-A\nBuoyage missing\nUntil 1 May 2027, the buoyage in the mentioned position is missing.\n56° 37.693'N - 005° 16.672'E, yellow spar buoy cross topmark, Fl(5)Y.20s.\nSource: INEOS 26 November 2026\nCharts: 93",
+      "bodyEn": "Nini-A\nBuoyage missing\nUntil 1 May 2027, the buoyage in the mentioned position is missing.\n56° 37.693'N - 005° 16.672'E, yellow spar buoy cross topmark, Fl(5)Y.20s.\nSource: INEOS 26 November 2026\nCharts: 93",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 56.62821666666667,
+            "longitude": 5.277866666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-775ee8c8-b719-445f-be04-e06a3d778c19",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-775ee8c8-b719-445f-be04-e06a3d778c19",
+      "warningNumber": "NM-1171-26 (P)",
+      "status": "active",
+      "publishedAt": "2026-11-27T10:48:44.000Z",
+      "updatedAt": "2026-11-27T10:48:44.000Z",
+      "titleIs": "NM-1171-26 (P) · Denmark. The Baltic Sea. Rønne Havn. Construction works.",
+      "titleEn": "NM-1171-26 (P) · Denmark. The Baltic Sea. Rønne Havn. Construction works.",
+      "bodyIs": "Rønne Havn\nConstruction works\nIn the period 1 December 2026 - 1 August 2027, construction works will be carried out in an area bounded by a line through positions 1) - 4).\n1)\n55° 05.264'N - 014° 41.403'E\n2)\n55° 05.288'N - 014° 41.553'E\n3)\n55° 05.248'N - 014° 41.573'E\n4)\n55° 05.224'N - 014° 41.423'E\nMariners are requested to pass with caution.\nSource: MT Højgaard 26 November 2026\nCharts: 189, 188",
+      "bodyEn": "Rønne Havn\nConstruction works\nIn the period 1 December 2026 - 1 August 2027, construction works will be carried out in an area bounded by a line through positions 1) - 4).\n1)\n55° 05.264'N - 014° 41.403'E\n2)\n55° 05.288'N - 014° 41.553'E\n3)\n55° 05.248'N - 014° 41.573'E\n4)\n55° 05.224'N - 014° 41.423'E\nMariners are requested to pass with caution.\nSource: MT Højgaard 26 November 2026\nCharts: 189, 188",
+      "category": "works",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 55.08773333333335,
+            "longitude": 14.69005
+          },
+          {
+            "latitude": 55.08813333333333,
+            "longitude": 14.692549999999999
+          },
+          {
+            "latitude": 55.0874666666667,
+            "longitude": 14.692883333333333
+          },
+          {
+            "latitude": 55.08706666666666,
+            "longitude": 14.690383333333333
+          },
+          {
+            "latitude": 55.08773333333335,
+            "longitude": 14.69005
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
+    {
+      "id": "dk-authority-dk-03693633-bf43-4997-8ddc-cfd220e75091",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-03693633-bf43-4997-8ddc-cfd220e75091",
+      "warningNumber": "NM-1170-26",
+      "status": "active",
+      "publishedAt": "2026-11-27T10:45:59.000Z",
+      "updatedAt": "2026-11-27T10:45:59.000Z",
+      "titleIs": "NM-1170-26 · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement completed.",
+      "titleEn": "NM-1170-26 · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement completed.",
+      "bodyIs": "Vejlby Strand\nCoastal reinforcement completed\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nSource: Rohde Nielsen A/S 26 November 2026\nCharts: 93",
+      "bodyEn": "Vejlby Strand\nCoastal reinforcement completed\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nSource: Rohde Nielsen A/S 26 November 2026\nCharts: 93",
+      "category": "other",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.588166666666666,
+            "longitude": 8.106466666666666
+          },
+          {
+            "latitude": 56.58670000000001,
+            "longitude": 8.132216666666666
+          },
+          {
+            "latitude": 56.56424999999999,
+            "longitude": 8.124183333333333
+          },
+          {
+            "latitude": 56.56721666666667,
+            "longitude": 8.096583333333333
+          },
+          {
+            "latitude": 56.588166666666666,
+            "longitude": 8.106466666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
+    },
     {
       "id": "dk-authority-dk-e75f311e-c0af-44d9-ac52-1c02f3796de3",
       "authority": "Danish Maritime Authority",
@@ -32,7 +248,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-4fe7b280-f9ba-49b0-bf75-ce011e184605",
@@ -63,7 +279,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-da938b50-6be5-4700-90f3-a312eeabfba4",
@@ -118,7 +334,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-767e131f-1eef-4cbd-9fc4-d1d2faf495c2",
@@ -145,7 +361,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-5c55915d-a62d-40cb-9d67-7b907abea13b",
@@ -188,7 +404,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-04049c46-70c6-40f9-9de2-8d420119c820",
@@ -219,7 +435,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-fd862cdf-017a-4a2c-8a16-1d9fddbc544b",
@@ -246,7 +462,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7f548887-5cd8-48d5-b92b-bc966216de0a",
@@ -277,7 +493,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a312fb95-c94e-46ce-86ac-4fc6911fdcb1",
@@ -352,7 +568,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-687ae526-e5c8-4f50-8244-005db72c179a",
@@ -379,7 +595,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9daac39f-16a4-493f-a90b-18b70a9b8911",
@@ -410,7 +626,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a1e808a0-dbdd-4bd0-8b99-b032068bbdef",
@@ -457,7 +673,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2c0f5392-7192-4e52-ba28-7f3e5b0bf68b",
@@ -500,7 +716,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-59608b02-4362-471d-94ff-684f1e792ff7",
@@ -543,7 +759,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7e1c4e3d-6278-4dde-ad95-836a5f4b614c",
@@ -610,7 +826,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-62fa8d37-e112-43f1-8387-ecf9ddfd3cd2",
@@ -649,7 +865,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-35d1d383-18bb-4459-961d-9c2525fcec0b",
@@ -692,7 +908,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-8550c809-4234-4e07-8e7e-c9c511a1e367",
@@ -719,7 +935,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-e2900991-392e-42ba-9563-3d980336451d",
@@ -746,7 +962,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-92ee4cec-b67d-450c-bd51-2a93bfb1de3f",
@@ -797,7 +1013,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-d8bf0d27-0b7c-4343-9ad8-1f11988d24ce",
@@ -840,7 +1056,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-df35e698-c340-411a-bdd9-586ec7392c4d",
@@ -871,7 +1087,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-6e3ac6b4-ded7-4954-aca2-3168a100ee00",
@@ -898,7 +1114,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-cfdf45a0-6230-4803-90ec-db6354d73bcd",
@@ -933,7 +1149,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-df7eb7f1-4adf-4002-8bc7-129c16e46b2f",
@@ -976,7 +1192,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9b7841ab-cab7-4100-a03b-d0bf93d4bb86",
@@ -1031,7 +1247,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f541fdd5-dab6-46af-ad49-e35ad3f9c942",
@@ -1094,7 +1310,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-1dea5f53-0d9e-4552-9b2c-3d83094c938d",
@@ -1133,7 +1349,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-721ebc1c-9f1e-475d-8da6-9ffe0e216ea4",
@@ -1160,7 +1376,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c43ab038-6219-4bff-93c4-d2afe12919a6",
@@ -1203,7 +1419,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-8ddbf7d3-7618-417e-9652-05820623f854",
@@ -1230,7 +1446,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f533a825-7d7b-4ad6-9cea-a19dff866165",
@@ -1261,7 +1477,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-1c550e06-1f26-4da3-8d1b-d8398cc4b07a",
@@ -1316,7 +1532,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-58e66025-b377-4a1c-872c-7d3bd59a453b",
@@ -1343,7 +1559,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-95e22b8b-e247-4100-ae51-c25c551c4a1a",
@@ -1398,7 +1614,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-4261a410-e14f-4cfb-8b03-a8112409e230",
@@ -1441,7 +1657,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-de08c235-94b2-49ae-9f64-eff5b405fffa",
@@ -1468,7 +1684,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-97a2690e-dab1-482f-8365-af19de8cd4b4",
@@ -1495,7 +1711,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-aa481ba4-cff3-4794-848c-4c3896842591",
@@ -1534,7 +1750,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-5947f7d3-c556-49d3-8b88-7dd8273d549f",
@@ -1561,7 +1777,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-63aa57cd-66f5-439e-9687-1428a036d812",
@@ -1592,7 +1808,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0802790e-6b1c-4c75-aa5f-0c605fa484ad",
@@ -1635,7 +1851,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-77b72492-8f5c-4bd3-acea-f8f64cb57abe",
@@ -1674,7 +1890,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-745ee066-665f-4744-a9e6-1902ca4b5d8d",
@@ -1701,7 +1917,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-61209f8b-72b7-4f53-8a53-99ad1ba6d0e6",
@@ -1728,7 +1944,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a8306d6c-3997-4dee-a952-66c50199bdaa",
@@ -1759,7 +1975,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-3f846fb6-0c14-433b-b6d7-4f3b40af8cdd",
@@ -1822,7 +2038,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-24f58a2e-3518-4d56-ad91-96514883223d",
@@ -1881,7 +2097,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-977f9cc8-a972-421e-8ad5-372714231404",
@@ -1932,7 +2148,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-5ded4dcc-d824-443e-899b-7907649e8b80",
@@ -1971,7 +2187,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2e2fcad4-79ff-457c-b00d-27cda83b5af4",
@@ -2018,7 +2234,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-05c36fcd-8644-435c-a100-5ed73a39cfd3",
@@ -2061,7 +2277,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-61bceea8-624f-4fb6-8657-9c9957177805",
@@ -2104,7 +2320,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-4b96ffe0-6bb3-40e6-be00-b8211bad94e8",
@@ -2147,7 +2363,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a4ad514b-dde6-4880-b44e-afc8ee372e8a",
@@ -2178,7 +2394,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7cd42a05-d4d1-4f51-a59c-f031c1e93d98",
@@ -2213,7 +2429,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-3a70a920-0fc3-4750-81ac-1247efde590f",
@@ -2256,7 +2472,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-578b5e10-954c-44cb-9466-f8c7abbebf7d",
@@ -2287,7 +2503,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-698861f5-1620-4ec8-a715-abb4ebd9fdb4",
@@ -2314,7 +2530,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-16f2d80e-7c3c-47f4-b85f-154a50ae43e3",
@@ -2341,7 +2557,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-5556b582-3cdf-4c00-9f8e-6122f7540184",
@@ -2384,7 +2600,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2f2625ca-f6c4-4ee8-85d9-36a115e45939",
@@ -2427,7 +2643,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ec392a37-6b40-43b6-8ff4-36b48de381c1",
@@ -2506,7 +2722,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9a8f4dd3-3991-42d0-80d7-e4fd0cd83325",
@@ -2537,7 +2753,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-d94e721f-42ff-4305-ac01-106ed9e9cbcb",
@@ -2592,7 +2808,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-af12c0a1-3eea-4206-aa87-4b9f3c3b14d8",
@@ -2623,7 +2839,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0790ace1-717f-4924-a89f-fd60cc49a5fa",
@@ -2650,7 +2866,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0eb7c552-2101-4cc8-a8b3-c45e50f941dc",
@@ -2677,7 +2893,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9d91b7d6-47b7-4383-9117-ef6019008585",
@@ -2704,34 +2920,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
-    },
-    {
-      "id": "dk-authority-dk-e7621651-9e44-47f8-b8d9-2a76644c52e3",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "ntm-dma-dk-e7621651-9e44-47f8-b8d9-2a76644c52e3",
-      "warningNumber": "NM-994-26 (T)",
-      "status": "active",
-      "publishedAt": "2026-10-14T09:37:02.000Z",
-      "updatedAt": "2026-10-14T09:37:03.000Z",
-      "titleIs": "NM-994-26 (T) · Denmark. The Sound. Kalvebodbroen. Light unlit.",
-      "titleEn": "NM-994-26 (T) · Denmark. The Sound. Kalvebodbroen. Light unlit.",
-      "bodyIs": "Kalvebodbroen\nLight unlit\nUntil further notice, the light in the mentioned position is unlit.\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 14 October 2026\nCharts: 134",
-      "bodyEn": "Kalvebodbroen\nLight unlit\nUntil further notice, the light in the mentioned position is unlit.\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 14 October 2026\nCharts: 134",
-      "category": "aid-to-navigation",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          {
-            "latitude": 55.613816666666665,
-            "longitude": 12.511883333333333
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-fd5a16a8-0883-4a9b-a5e2-f52813e2da38",
@@ -2774,7 +2963,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2235db7e-8453-44c7-89bc-d3ad1063d744",
@@ -2801,7 +2990,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-44922cb9-0c24-444c-8ff0-957e3c845272",
@@ -2844,7 +3033,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-6f8811fd-5f9e-49a6-b8ee-b04f99a96515",
@@ -2887,7 +3076,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ccea8d1e-0020-41f1-858e-b3a301321086",
@@ -2930,7 +3119,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-b06afbee-1562-4464-ad6e-57ca59820fb3",
@@ -2957,7 +3146,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-199d6968-469b-4188-aa55-b3afa52d04d4",
@@ -3004,7 +3193,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-3e1fb6d4-6dac-4620-999e-d54f221a646c",
@@ -3035,7 +3224,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-bab1699a-b9b2-41ca-999e-bcb2b5f9b174",
@@ -3062,7 +3251,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-426cdb25-facf-49dc-aa09-fba761015f78",
@@ -3125,7 +3314,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-48e20222-9452-4358-bae3-c40707491f94",
@@ -3172,7 +3361,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f336558b-922c-48eb-ae74-3b8378b4975c",
@@ -3199,7 +3388,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7284048f-9f09-4e54-8d5c-6a9bdabef0f7",
@@ -3242,7 +3431,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-64d3791c-c7be-4f60-9a76-bd55059bfdda",
@@ -3273,7 +3462,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a93cd7fe-e125-4628-b2d8-a9d08168165a",
@@ -3300,7 +3489,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-587b884f-916e-4095-9a6b-ae63e25be083",
@@ -3343,7 +3532,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a3ac3e8e-39e9-4fb4-9f17-287d69672006",
@@ -3370,7 +3559,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-35a8cfb3-f139-4daf-99ad-43e9a88a7560",
@@ -3397,7 +3586,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-07fa1b05-a602-4f55-9b77-944021a70543",
@@ -3452,50 +3641,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
-    },
-    {
-      "id": "dk-authority-dk-0e34354c-af4b-4e7e-97bb-f6dd7ecebddb",
-      "authority": "Danish Maritime Authority",
-      "country": "DK",
-      "sourceId": "ntm-dma-dk-0e34354c-af4b-4e7e-97bb-f6dd7ecebddb",
-      "warningNumber": "NM-825-26 (T)",
-      "status": "active",
-      "publishedAt": "2026-09-07T06:55:22.000Z",
-      "updatedAt": "2026-09-07T06:55:22.000Z",
-      "titleIs": "NM-825-26 (T) · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement.",
-      "titleEn": "NM-825-26 (T) · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement.",
-      "bodyIs": "Vejlby Strand\nCoastal reinforcement\nIn the period week 40 - 50 2026 , coastal reinforcement will be carried out between positions 1) and 2).\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\nSand will be pumped to the shore through pipelines deployed in the area bounded by a line through positions 3) - 6).\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nThe pipelines will be buoyed by yellow buoys with cross topmark and light, Fl.Y.5s.\nThe work will be carried out from the vessel »BALDER R« (OYPF2), which can be contacted on VHF channel 16.\nMariners are requested to pass with caution.\nSource: Rohde Nielsen A/S 2 September 2026\nCharts: 93",
-      "bodyEn": "Vejlby Strand\nCoastal reinforcement\nIn the period week 40 - 50 2026 , coastal reinforcement will be carried out between positions 1) and 2).\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\nSand will be pumped to the shore through pipelines deployed in the area bounded by a line through positions 3) - 6).\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nThe pipelines will be buoyed by yellow buoys with cross topmark and light, Fl.Y.5s.\nThe work will be carried out from the vessel »BALDER R« (OYPF2), which can be contacted on VHF channel 16.\nMariners are requested to pass with caution.\nSource: Rohde Nielsen A/S 2 September 2026\nCharts: 93",
-      "category": "cable-or-pipeline",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          {
-            "latitude": 56.588166666666666,
-            "longitude": 8.106466666666666
-          },
-          {
-            "latitude": 56.58670000000001,
-            "longitude": 8.132216666666666
-          },
-          {
-            "latitude": 56.56424999999999,
-            "longitude": 8.124183333333333
-          },
-          {
-            "latitude": 56.56721666666667,
-            "longitude": 8.096583333333333
-          },
-          {
-            "latitude": 56.588166666666666,
-            "longitude": 8.106466666666666
-          }
-        ]
-      },
-      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-02315c82-6795-488a-819e-e40816d20989",
@@ -3526,7 +3672,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-1e0f6216-06d5-4f06-b09a-0bf86bf9a151",
@@ -3581,7 +3727,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9c927f28-ca5a-4110-b9f9-7f1ce81f5554",
@@ -3690,7 +3836,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a9d802a3-b17f-4b74-8390-fa0c252c6058",
@@ -3725,7 +3871,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-b807977e-af80-4982-9647-b42329109203",
@@ -3780,7 +3926,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-55ba65b1-899e-47a7-b42d-6ca494f90849",
@@ -3889,7 +4035,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c58ebd93-f6d0-483b-b06c-74dc8e03b204",
@@ -4014,7 +4160,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-453a9676-925a-406b-a7d2-a77c087d5cfb",
@@ -4045,7 +4191,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-794d4136-7567-4225-8256-d9a63a26be71",
@@ -4088,7 +4234,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-4261133a-02d5-4140-800c-1b29fd2571ba",
@@ -4127,7 +4273,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f328ac6e-ce7d-4b9b-8628-4d2614e87912",
@@ -4154,7 +4300,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-545adb47-d8b3-4bea-a812-9e58013e1210",
@@ -4181,7 +4327,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7ecf2f55-37bd-41bf-a5bd-96d222d9b453",
@@ -4208,7 +4354,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2643bbd4-9e05-4b03-a162-2384d127e359",
@@ -4291,7 +4437,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-418d3e62-5670-43cc-84fe-9fe22e30fd26",
@@ -4400,7 +4546,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-72c821da-48b6-4b3b-a503-3dd0c1fe70e6",
@@ -4443,7 +4589,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-e8ecfc82-6688-4bdb-a8f6-07554457d561",
@@ -4560,7 +4706,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-545608f4-d01d-4719-bd14-0691df59cdd1",
@@ -4603,7 +4749,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-bb447d84-ae4b-443a-bd22-cc9370f0b12a",
@@ -4646,7 +4792,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-783c7053-f44e-414f-acb1-8589d1319a58",
@@ -4677,7 +4823,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-258bb8ae-6fce-4590-9c16-73b81168ec7e",
@@ -4716,7 +4862,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-91325acd-ca10-4ce9-a9a9-45227919396d",
@@ -4743,7 +4889,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-21058062-c3c7-4cf0-b20e-cb58bdbcd35f",
@@ -4786,7 +4932,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-d2447046-916d-45a1-ae42-52a9f6d4fdbe",
@@ -4813,7 +4959,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c9d80606-0c29-4871-9359-f6d32b414fb0",
@@ -4954,7 +5100,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-239c39e4-42a9-4f70-b412-c1ff0e22809c",
@@ -5001,7 +5147,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-43ada6e8-fecd-4ae3-9480-8c74a8ad5d47",
@@ -5028,7 +5174,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ffc1a262-4214-45a7-a892-17d3bfc76888",
@@ -5055,7 +5201,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ebc78692-6ddf-4900-a097-aa7231519311",
@@ -5082,7 +5228,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-dcc485cd-3d2f-4e35-b0e4-bfa2280baca8",
@@ -5113,7 +5259,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f17d1419-00f5-449c-9208-2132825e4fa2",
@@ -5342,7 +5488,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c59b4500-9f33-4cf8-b66d-d7782f5b7948",
@@ -5377,7 +5523,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-5253a2ef-6d3b-4fa5-a4e9-1e04684e5358",
@@ -5404,7 +5550,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9cc4dc7e-ed97-4f50-ade0-452d0a9150c8",
@@ -5435,7 +5581,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-8a96f247-04fe-4e1c-b685-eecd77c35ef5",
@@ -5478,7 +5624,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-89567aa5-88f2-4439-a198-8d19e3b37176",
@@ -5505,7 +5651,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-e0b0e4e8-cefa-42fc-ad7f-532d3a43e7ec",
@@ -5548,7 +5694,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-60d851a3-46f5-4d18-89d1-00617bfce62c",
@@ -5575,7 +5721,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ecad107e-d300-4fd4-9509-7af58a6f3573",
@@ -5630,7 +5776,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7415b2b3-b856-4116-8267-62f0371399f9",
@@ -5673,7 +5819,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a23cf33a-db67-4579-9c6e-66e1b99cf527",
@@ -5724,7 +5870,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-b6da608b-ac00-4b8a-b6f0-ca3a86b7f7bd",
@@ -5767,7 +5913,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-877a18bb-36bd-4c4a-ad6b-11ef3c9cbae1",
@@ -5794,7 +5940,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-2bfd867c-1d7e-4d34-866b-9ae707e9ad98",
@@ -5825,7 +5971,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-4caf3fe4-2a4b-4a76-bdcd-3d67378ac138",
@@ -5852,7 +5998,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9feece26-394e-49a0-b90e-2bd65dbe00c8",
@@ -5879,7 +6025,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-18c62242-96b3-4692-9376-d19a2ef3dcb5",
@@ -5901,7 +6047,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-7242e03c-1279-4235-b418-6ac11cf6b027",
@@ -5944,7 +6090,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-9c52bfcd-4f65-443f-96b2-3c34fc92eea3",
@@ -5991,7 +6137,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-389d4653-c1ec-4616-9643-f38171287c58",
@@ -6030,7 +6176,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c3fc041b-65f8-4e78-9f50-2612e5a18594",
@@ -6073,7 +6219,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-1281acc3-8e40-4329-a3e6-c54fbe591d54",
@@ -6104,7 +6250,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-f05437b2-d15a-40bb-9dec-abaa2ad73181",
@@ -6159,7 +6305,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0bdf2c32-b2dc-4128-9cf0-ab6a30c3347a",
@@ -6190,7 +6336,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-c4581eb3-5dee-4644-ad66-69363bce6b94",
@@ -6217,7 +6363,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-96c8329e-9ae9-4bb8-817c-c52ef5c5d7d7",
@@ -6244,7 +6390,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-19fc1fd6-2e06-4c42-bd49-262365dab157",
@@ -6266,7 +6412,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0a86fca2-80c3-42c9-9ebf-1e8cad881d36",
@@ -6297,7 +6443,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-a17f90c8-a7d7-44ef-8fd5-eb15a757bc1e",
@@ -6328,7 +6474,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-6d262eb3-d591-4a70-8c61-8a4ae9781721",
@@ -6379,7 +6525,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-85c99a32-8ffd-4522-a455-6daed8be79f2",
@@ -6401,7 +6547,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-0da01c77-a49b-4b9d-ae18-49ece157b2d4",
@@ -6428,7 +6574,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-d9db94db-5fa7-4bdb-90ca-2f8afed511df",
@@ -6459,7 +6605,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-33f607f7-6894-4df1-90e6-4d1702a954c7",
@@ -6486,7 +6632,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-8e81e0e2-e4c5-4681-86ab-c22d3d207bac",
@@ -6513,7 +6659,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-988971ff-c23b-4d48-8372-abeb64dd9259",
@@ -6556,7 +6702,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-3fefa43e-350e-4085-a9c2-5eeda9bacd01",
@@ -6583,7 +6729,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-6ed3ea4e-bf18-4d86-8700-79ef79ec69c9",
@@ -6610,7 +6756,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-8eff00b8-bf86-4bf7-b1d4-b607f07132f1",
@@ -6637,7 +6783,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-e0c1e57e-af70-465c-9adb-880b79e8d6be",
@@ -6668,7 +6814,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-ed19ae6c-9a1b-4f9e-aa0e-39e934a929d5",
@@ -6699,7 +6845,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-49f1ac7d-eb4a-43e0-be5c-792e553dc666",
@@ -6750,7 +6896,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-e876ec32-b51d-4b14-af56-c13cde48646b",
@@ -6777,7 +6923,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-82d38a1d-980e-4a82-b65f-e359937305c0",
@@ -6804,7 +6950,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.561Z"
+      "fetchedAt": "2026-11-28T09:20:59.688Z"
     },
     {
       "id": "dk-authority-dk-dcd8ea97-cd4c-4461-a4f5-418511ac98bf",
@@ -9476,6 +9622,33 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-10-27T14:33:35.628Z"
+    },
+    {
+      "id": "dk-authority-dk-e7621651-9e44-47f8-b8d9-2a76644c52e3",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-e7621651-9e44-47f8-b8d9-2a76644c52e3",
+      "warningNumber": "NM-994-26 (T)",
+      "status": "inactive",
+      "publishedAt": "2026-10-14T09:37:02.000Z",
+      "updatedAt": "2026-10-14T09:37:03.000Z",
+      "titleIs": "NM-994-26 (T) · Denmark. The Sound. Kalvebodbroen. Light unlit.",
+      "titleEn": "NM-994-26 (T) · Denmark. The Sound. Kalvebodbroen. Light unlit.",
+      "bodyIs": "Kalvebodbroen\nLight unlit\nUntil further notice, the light in the mentioned position is unlit.\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 14 October 2026\nCharts: 134",
+      "bodyEn": "Kalvebodbroen\nLight unlit\nUntil further notice, the light in the mentioned position is unlit.\n55° 36.829'N - 012° 30.713'E, Kalvebodbroen Fl.G.3s.\nSource: COWI A/S 14 October 2026\nCharts: 134",
+      "category": "aid-to-navigation",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          {
+            "latitude": 55.613816666666665,
+            "longitude": 12.511883333333333
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-27T08:24:51.561Z"
     },
     {
       "id": "dk-authority-dk-3199ea59-e4a5-4698-b467-de55ff4b790d",
@@ -15034,6 +15207,49 @@
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "fetchedAt": "2026-09-29T09:32:42.388Z"
+    },
+    {
+      "id": "dk-authority-dk-0e34354c-af4b-4e7e-97bb-f6dd7ecebddb",
+      "authority": "Danish Maritime Authority",
+      "country": "DK",
+      "sourceId": "ntm-dma-dk-0e34354c-af4b-4e7e-97bb-f6dd7ecebddb",
+      "warningNumber": "NM-825-26 (T)",
+      "status": "inactive",
+      "publishedAt": "2026-09-07T06:55:22.000Z",
+      "updatedAt": "2026-09-07T06:55:22.000Z",
+      "titleIs": "NM-825-26 (T) · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement.",
+      "titleEn": "NM-825-26 (T) · Denmark. The North Sea. Vejlby Strand. Coastal reinforcement.",
+      "bodyIs": "Vejlby Strand\nCoastal reinforcement\nIn the period week 40 - 50 2026 , coastal reinforcement will be carried out between positions 1) and 2).\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\nSand will be pumped to the shore through pipelines deployed in the area bounded by a line through positions 3) - 6).\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nThe pipelines will be buoyed by yellow buoys with cross topmark and light, Fl.Y.5s.\nThe work will be carried out from the vessel »BALDER R« (OYPF2), which can be contacted on VHF channel 16.\nMariners are requested to pass with caution.\nSource: Rohde Nielsen A/S 2 September 2026\nCharts: 93",
+      "bodyEn": "Vejlby Strand\nCoastal reinforcement\nIn the period week 40 - 50 2026 , coastal reinforcement will be carried out between positions 1) and 2).\n1)\n56° 35.203'N - 008° 08.218'E\n2)\n56° 33.678'N - 008° 07.559'E\nSand will be pumped to the shore through pipelines deployed in the area bounded by a line through positions 3) - 6).\n3)\n56° 35.290'N - 008° 06.388'E\n4)\n56° 35.202'N - 008° 07.933'E\n5)\n56° 33.855'N - 008° 07.451'E\n6)\n56° 34.033'N - 008° 05.795'E\nThe pipelines will be buoyed by yellow buoys with cross topmark and light, Fl.Y.5s.\nThe work will be carried out from the vessel »BALDER R« (OYPF2), which can be contacted on VHF channel 16.\nMariners are requested to pass with caution.\nSource: Rohde Nielsen A/S 2 September 2026\nCharts: 93",
+      "category": "cable-or-pipeline",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          {
+            "latitude": 56.588166666666666,
+            "longitude": 8.106466666666666
+          },
+          {
+            "latitude": 56.58670000000001,
+            "longitude": 8.132216666666666
+          },
+          {
+            "latitude": 56.56424999999999,
+            "longitude": 8.124183333333333
+          },
+          {
+            "latitude": 56.56721666666667,
+            "longitude": 8.096583333333333
+          },
+          {
+            "latitude": 56.588166666666666,
+            "longitude": 8.106466666666666
+          }
+        ]
+      },
+      "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
+      "fetchedAt": "2026-11-27T08:24:51.561Z"
     },
     {
       "id": "dk-authority-dk-7de91b58-29ff-4c49-98df-9fcb6e3ba960",
@@ -22081,7 +22297,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-31654d41-6eda-4f71-842b-e9d8e5ad14ed",
@@ -22108,7 +22324,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-00d2c26b-a340-46df-8e5c-ee6e98d8610f",
@@ -22155,7 +22371,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-2d82a070-bf2b-495a-82aa-a057a1280c7c",
@@ -22198,7 +22414,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-df7d320c-42e3-47a0-b0c2-525c3736d17d",
@@ -22225,7 +22441,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-c3000032-dc55-46a9-af3a-e4ae4f0487b5",
@@ -22252,7 +22468,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-c3dddc69-d48c-410b-a9e4-24a74061c2e2",
@@ -22279,7 +22495,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-fd367f0d-fc23-4715-af6a-692b347693af",
@@ -22306,7 +22522,7 @@
       },
       "sourceUrlIs": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
       "sourceUrlEn": "https://www.dma.dk/safety-at-sea/navigational-information/nautical-information",
-      "fetchedAt": "2026-11-27T08:24:51.383Z"
+      "fetchedAt": "2026-11-28T09:20:59.504Z"
     },
     {
       "id": "dk-authority-gl-72a99c06-1f7d-40a7-9625-1fb0495b4eb9",
